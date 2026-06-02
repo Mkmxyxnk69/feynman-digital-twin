@@ -12,14 +12,12 @@ This project is a digital twin of Richard Feynman that answers physics questions
 ## How to run
 
 ```bash
-# Clone and set up
 git clone https://github.com/Mkmxyxnk69/feynman-digital-twin.git
 cd feynman-digital-twin
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
 
-# Start Streamlit app
 python -m streamlit run app.py
 ```
 
@@ -37,4 +35,4 @@ python -m streamlit run app.py
 - Chose Feynman persona for clear, intuitive explanations of physics
 - Used RAG to keep responses grounded in specific Feynman-style notes
 - Summarized memories instead of raw logs to keep context compact
-- Implemented voice using simple Google STT + macOS `say` due to time and platform constraints
+- Implemented voice using Google STT + macOS `say` due to time and platform constraints
