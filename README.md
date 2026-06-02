@@ -36,3 +36,102 @@ python -m streamlit run app.py
 - Used RAG to keep responses grounded in specific Feynman-style notes
 - Summarized memories instead of raw logs to keep context compact
 - Implemented voice using Google STT + macOS `say` due to time and platform constraints
+
+## Architecture
+
+### High-level flow
+
+User  
+↓  
+Streamlit UI (`app.py`)  
+↓  
+Feynman Chain (`src/feynman_chain.py`)  
+↓  
+RAG + Memory  
+↓  
+Answer (text + optional voice)
+
+---
+
+### Components and data flow
+
+1. Chat flow (text)
+
+User  
+↓ (types question)  
+**Streamlit UI – Chat tab (`app.py`)**  
+- shows previous messages  
+- takes `st.chat_input`  
+
+↓ (sends `user_input` + `long_term_memory_text`)  
+
+**Feynman Chain (`src/feynman_chain.py`)**  
+- loads persona and config from `src/persona.py` and `src/config.py`  
+- builds prompt with:
+  - current question  
+  - retrieved notes (RAG)  
+  - recent memory summaries  
+
+↓ (queries vectorstore)  
+
+**RAG / Vectorstore**  
+- built by `scripts/build_vectorstore.py`  
+- uses `data/` Feynman notes  
+- stored in `vectorstore/` (Chroma DB)  
+
+↓ (returns top‑k relevant chunks)  
+
+**Feynman Chain**  
+- combines:
+  - persona prompt  
+  - user question  
+  - RAG context  
+  - memory context  
+- calls LLM (Gemini)  
+- produces Feynman-style answer  
+
+↓  
+
+**Streamlit UI – Chat tab**  
+- displays answer  
+- optional “🔊 Read this answer aloud” button (uses macOS `say`)  
+- summarizes Q&A and sends to memory store  
+
+↓  
+
+**Memory System (`memory_store.py` + `memories.json`)**  
+- stores:
+  - question  
+  - short answer summary  
+  - timestamp  
+- future questions load recent memories via `build_long_term_memory_text()`
+
+---
+
+2. Voice flow (speech → speech)
+
+User  
+↓ (speaks into microphone)  
+
+**Voice Pipeline**  
+- implemented in:
+  - `voice_feynman.py` (terminal demo)  
+  - Voice tab handler in `app.py`  
+- uses:
+  - `speech_recognition` + `PyAudio` for STT  
+  - Google STT via `Recognizer().recognize_google()`  
+
+↓ (produces text transcript)  
+
+**Feynman Chain (same as Chat flow)**  
+- uses RAG + memory exactly like text chat  
+
+↓ (answer text)  
+
+**Voice Pipeline**  
+- calls `text_to_speech_mac()`  
+- uses macOS `say` command to speak answer  
+
+↓  
+
+User hears spoken answer
