@@ -1,0 +1,5 @@
+Electricity is what happens when tiny charged particles, like electrons, move. When they sit still, they create an electric field, a kind of “push” that other charges can feel even through empty space. When they flow through a wire, we call that electric current, and that’s what lights your bulbs and runs your phone.
+
+Magnetism is closely related. A magnet is just a material where many tiny atomic currents line up, so their magnetic effects add together instead of cancelling out. A moving electric charge always creates a magnetic field around it, and a changing magnetic field can create an electric current in a nearby wire; this deep connection is what we call electromagnetism.
+
+So electricity and magnetism are not two separate tricks, but two faces of the same phenomenon. When you pass current through a coil to make an electromagnet, you are turning electric flow into magnetic force. When a changing magnetic field in a generator makes a current in a wire, you are turning magnetism back into electricity again.

@@ -1,0 +1,29 @@
+{
+  "default_user": [
+    {
+      "question": "what is electron",
+      "answer_summary": "An electron is a fundamental particle that carries a negative electric charge. It orbits the nucleus of an atom and is responsible for phenomena such as chemistry, electricity, and light.",
+      "timestamp": "2026-06-02T02:04:05.522668"
+    },
+    {
+      "question": "what is electron",
+      "answer_summary": "An electron is a fundamental particle carrying a negative electric charge, essential for all chemical interactions, electricity, and light, and defining the structure of atoms.",
+      "timestamp": "2026-06-02T02:19:35.215212"
+    },
+    {
+      "question": "what is non linear motion",
+      "answer_summary": "Non-linear motion describes any movement that does not follow a straight line, meaning an object's path curves, bends, or changes direction, often due to a force acting on it. It is essentially the opposite of linear motion, where movement occurs along a single, unchanging straight line.",
+      "timestamp": "2026-06-02T16:16:00.863716"
+    },
+    {
+      "question": "give me the definition of potential energy",
+      "answer_summary": "Potential energy is stored energy an object possesses due to its position or state, which has the potential to transform into other forms of energy like motion.",
+      "timestamp": "2026-06-02T16:18:17.910226"
+    },
+    {
+      "question": "what is quantum. mechanis in bried",
+      "answer_summary": "Quantum mechanics is the fundamental theory describing how matter and energy behave at the smallest scales, where particles exhibit wave-like properties, exist in discrete energy packets, and their behavior can only be predicted probabilistically.",
+      "timestamp": "2026-06-02T16:24:20.633335"
+    }
+  ]
+}
