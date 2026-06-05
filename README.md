@@ -1,136 +1,157 @@
 # Feynman Digital Twin
 
 ## Overview
-This project is a digital twin of Richard Feynman that answers physics questions in his teaching style using RAG over curated notes, a long-term memory system, and a voice interface (speech-to-text + text-to-speech).
+This project is a digital twin of Richard Feynman that answers physics questions in his teaching style using retrieval‑augmented generation (RAG) over curated notes, a simple long‑term memory system, and an optional voice interface (speech‑to‑text + text‑to‑speech).
 
 ## Features
-- Retrieval-augmented generation over Feynman-style notes (`data/` + `vectorstore/`)
-- Long-term memory with summarized past interactions (`memory_store.py`, `memories.json`)
-- Web UI with Streamlit (`app.py`) for chat, voice, and memory dashboard
-- Voice Q&A using SpeechRecognition for STT and macOS `say` for TTS (`voice_feynman.py` and Voice tab)
+- Retrieval‑augmented generation over Feynman‑style physics notes in `data/` backed by a Chroma vectorstore in `vectorstore/`.
+- Long‑term memory with summarized past interactions stored in `memories.json` and managed via `memory_store.py`.
+- Web UI built with Streamlit (`app.py`) for chat, basic voice control, and a simple memory view.
+- Voice Q&A demo using SpeechRecognition for STT and macOS `say` for TTS (`voice_feynman.py`).
+- Separate test scripts for quickly checking the LLM and the Feynman chain (`src/test_gemini.py`, `src/test_feynman_chain.py`).
 
 ## How to run
 
 ```bash
 git clone https://github.com/Mkmxyxnk69/feynman-digital-twin.git
 cd feynman-digital-twin
+
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
-pip install -r requirements.txt
 
+pip install -r requirements.txt
+```
+
+Set your Gemini API key in `.env`:
+
+```bash
+GEMINI_API_KEY=your_key_here
+```
+
+Then run the Streamlit app:
+
+```bash
 python -m streamlit run app.py
+```
+
+Optional quick tests:
+
+```bash
+python -m src.test_gemini          # check LLM connectivity
+python -m src.test_feynman_chain   # check RAG + Feynman chain end-to-end
+python voice_feynman.py            # terminal voice demo (macOS)
 ```
 
 ## Architecture (high level)
 - User → Streamlit Chat/Voice UI (`app.py`)
 - Feynman chain (`src/feynman_chain.py`) uses:
   - Persona prompt (`src/persona.py`)
+  - Config (`src/config.py`) for model, vectorstore path, and retrieval parameters
   - RAG over Chroma vectorstore (`scripts/build_vectorstore.py`, `vectorstore/`)
-  - Long-term memory context (`memory_store.py`, `memories.json`)
+  - Long‑term memory context (`memory_store.py`, `memories.json`)
 - Voice path:
   - Microphone → SpeechRecognition (Google STT) → Feynman chain
   - Answer text → macOS `say` → spoken reply
 
 ## Design decisions
-- Chose Feynman persona for clear, intuitive explanations of physics
-- Used RAG to keep responses grounded in specific Feynman-style notes
-- Summarized memories instead of raw logs to keep context compact
-- Implemented voice using Google STT + macOS `say` due to time and platform constraints
+- Chose a Feynman persona to emphasize intuitive, step‑by‑step physics explanations.
+- Used a simple RAG pipeline (top‑k retrieval from Chroma) to keep answers grounded in the curated notes instead of hallucinating.
+- Represented long‑term memory as short summaries of past Q&A, which keeps context compact but still lets the agent “remember” earlier conversations.
+- Implemented voice using Google STT and the macOS `say` command to avoid heavy dependencies and keep the demo easy to run on a single laptop.
+- Kept the chain logic in `src/feynman_chain.py` small and testable so it can be reused from both the Streamlit app and the standalone scripts.
 
-## Architecture
+## Architecture details
 
-### High-level flow
+### High‑level flow
 
 User  
 ↓  
 Streamlit UI (`app.py`)  
 ↓  
-Feynman Chain (`src/feynman_chain.py`)  
+Feynman chain (`src/feynman_chain.py`)  
 ↓  
-RAG + Memory  
+RAG + memory context  
 ↓  
-Answer (text + optional voice)
+Answer (text, optional voice)
 
 ---
 
 ### Components and data flow
 
-1. Chat flow (text)
+#### 1. Chat flow (text)
 
 User  
 ↓ (types question)  
-**Streamlit UI – Chat tab (`app.py`)**  
-- shows previous messages  
-- takes `st.chat_input`  
 
-↓ (sends `user_input` + `long_term_memory_text`)  
+**Streamlit UI – Chat tab (`app.py`)**  
+- Shows previous messages  
+- Collects `user_input`  
+- Loads recent memory summaries  
+
+↓  
 
 **Feynman Chain (`src/feynman_chain.py`)**  
-- loads persona and config from `src/persona.py` and `src/config.py`  
-- builds prompt with:
-  - current question  
-  - retrieved notes (RAG)  
-  - recent memory summaries  
+- Loads persona from `src/persona.py` and config from `src/config.py`  
+- Calls a retriever over the Chroma vectorstore for top‑k relevant chunks  
+- Builds a prompt with:
+  - Current question  
+  - Retrieved note chunks  
+  - Long‑term memory text  
 
-↓ (queries vectorstore)  
+↓  
 
 **RAG / Vectorstore**  
-- built by `scripts/build_vectorstore.py`  
-- uses `data/` Feynman notes  
-- stored in `vectorstore/` (Chroma DB)  
+- Built once by `scripts/build_vectorstore.py` from text files in `data/`  
+- Stored in `vectorstore/` as a Chroma DB  
 
-↓ (returns top‑k relevant chunks)  
+↓  
 
 **Feynman Chain**  
-- combines:
-  - persona prompt  
-  - user question  
-  - RAG context  
-  - memory context  
-- calls LLM (Gemini)  
-- produces Feynman-style answer  
+- Combines persona prompt + question + RAG context + memory context  
+- Calls Gemini via the configured chat model  
+- Returns a Feynman‑style answer  
 
 ↓  
 
 **Streamlit UI – Chat tab**  
-- displays answer  
-- optional “🔊 Read this answer aloud” button (uses macOS `say`)  
-- summarizes Q&A and sends to memory store  
+- Displays the answer  
+- Optional button to read the answer aloud (using macOS `say`)  
+- Summarizes the interaction and sends it to the memory store  
 
 ↓  
 
 **Memory System (`memory_store.py` + `memories.json`)**  
-- stores:
-  - question  
-  - short answer summary  
-  - timestamp  
-- future questions load recent memories via `build_long_term_memory_text()`
+- Appends:
+  - User question  
+  - Short summary of the answer  
+  - Timestamp  
+- Future questions include a slice of these summaries in the context.
 
 ---
 
-2. Voice flow (speech → speech)
+#### 2. Voice flow (speech → speech)
 
 User  
 ↓ (speaks into microphone)  
 
-**Voice Pipeline**  
-- implemented in:
+**Voice pipeline**  
+- Implemented in:
   - `voice_feynman.py` (terminal demo)  
   - Voice tab handler in `app.py`  
-- uses:
-  - `speech_recognition` + `PyAudio` for STT  
+- Uses:
+  - `speech_recognition` + `PyAudio` for speech‑to‑text  
   - Google STT via `Recognizer().recognize_google()`  
 
-↓ (produces text transcript)  
+↓ (text transcript)  
 
-**Feynman Chain (same as Chat flow)**  
-- uses RAG + memory exactly like text chat  
+**Feynman Chain**  
+- Same logic as text chat (RAG + memory + persona)  
 
 ↓ (answer text)  
 
-**Voice Pipeline**  
-- calls `text_to_speech_mac()`  
-- uses macOS `say` command to speak answer  
+**Voice pipeline**  
+- Passes answer text to `text_to_speech_mac()`  
+- Uses the `say` command to speak the response aloud  
 
 ↓  
 
