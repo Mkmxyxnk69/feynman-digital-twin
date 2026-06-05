@@ -17,12 +17,11 @@ def get_retriever():
     """
     vectordb = Chroma(
         persist_directory=str(VECTORSTORE_DIR),
-        embedding_function=None,  # embeddings are already stored
+        embedding_function=None,  
     )
     return vectordb.as_retriever(search_kwargs={"k": 4})
 
 
-# Lightweight LLM just for memory summaries (lower temperature)
 summary_llm = ChatGoogleGenerativeAI(
     model="gemini-2.5-flash",
     temperature=0.2,
@@ -69,12 +68,9 @@ def build_feynman_chain():
     retriever = get_retriever()
 
     def ask_feynman(user_input: str, long_term_memory_text: str = "") -> str:
-        # 1) No LangChain ConversationBufferMemory here; Streamlit handles UI history.
 
-        # 2) Retrieve documents from vectorstore (RAG)
         docs = retriever.invoke(user_input)
 
-        # 3) Build system message: persona + optional long-term memories
         system_content = FEYNMAN_SYSTEM_PROMPT
         if long_term_memory_text:
             system_content += (
@@ -85,20 +81,16 @@ def build_feynman_chain():
 
         messages = [SystemMessage(content=system_content)]
 
-        # 4) Add retrieved context from vectorstore
         context_text = "\n\n".join([d.page_content for d in docs])
         context_message = SystemMessage(
             content=f"Here are reference texts from Feynman's work or commentary:\n\n{context_text}"
         )
         messages.append(context_message)
 
-        # 5) Add current user question
         messages.append(HumanMessage(content=user_input))
 
-        # 6) Call Gemini
         response = llm.invoke(messages)
 
-        # 7) Return the answer text
         return response.content
 
     return ask_feynman
