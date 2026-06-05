@@ -1,4 +1,4 @@
-# app.py
+
 import streamlit as st
 from datetime import datetime
 import os
@@ -32,7 +32,7 @@ def _human_time_label(ts_str: str) -> str:
     try:
         ts = datetime.fromisoformat(ts_str)
     except Exception:
-        return ts_str  # fallback if parsing fails
+        return ts_str  
 
     now = datetime.now()
     delta = now - ts
@@ -47,7 +47,6 @@ def _human_time_label(ts_str: str) -> str:
     elif days < 30:
         return "earlier this month"
     else:
-        # Fallback to a simple date if it's older
         return ts.strftime("%Y-%m-%d")
 
 
@@ -76,7 +75,7 @@ def run_voice_feynman():
     Record a question from the microphone, send it to the Feynman twin,
     and speak back the answer using macOS 'say'.
     """
-    # Ensure system FLAC (Homebrew) is visible for SpeechRecognition
+
     os.environ["PATH"] = "/opt/homebrew/bin:" + os.environ.get("PATH", "")
 
     r = sr.Recognizer()
@@ -108,27 +107,23 @@ def run_voice_feynman():
     st.write("Feynman says:")
     st.markdown(answer)
 
-    # Speak the answer
+
     try:
         text_to_speech_mac(answer)
     except Exception as e:
         st.warning(f"Could not speak answer: {e}")
 
-    # Store this interaction in long-term memory
     answer_summary = summarize_answer_for_memory(question, answer)
     add_memory(question, answer_summary, user_id=USER_ID)
 
 
-# Streamlit page config
 st.set_page_config(page_title="Feynman Digital Twin", page_icon="🧠")
 
-# Create the Feynman chain once per session for Chat tab
 if "feynman_chain" not in st.session_state:
     st.session_state.feynman_chain = build_feynman_chain()
 
 feynman = st.session_state.feynman_chain
 
-# --- Sidebar ---
 with st.sidebar:
     st.header("About this app")
     st.write(
@@ -142,24 +137,19 @@ with st.sidebar:
         st.session_state.feynman_chain = build_feynman_chain()
         st.success("Conversation reset!")
 
-# --- Main title ---
 st.title("Richard Feynman – Digital Twin")
 st.write(
     "Ask questions about physics or related topics, and get explanations in a Feynman-like style."
 )
 
-# ---- Tabs: Chat + Voice + Memory ----
 chat_tab, voice_tab, memory_tab = st.tabs(
     ["Chat", "Voice", "Memory"]
 )
 
-# ---------------- Chat tab ----------------
 with chat_tab:
-    # Initialize chat history
     if "messages" not in st.session_state:
         st.session_state.messages = []
 
-    # Display previous messages
     for msg in st.session_state.messages:
         role = msg["role"]
         content = msg["content"]
@@ -170,17 +160,14 @@ with chat_tab:
             with st.chat_message("assistant"):
                 st.markdown(content)
 
-    # Chat input
     user_input = st.chat_input("Ask Feynman a question...")
 
     if user_input:
-        # Add user message to history
         st.session_state.messages.append({"role": "user", "content": user_input})
 
         with st.chat_message("user"):
             st.markdown(user_input)
 
-        # Get Feynman response
         with st.chat_message("assistant"):
             with st.spinner("Thinking like Feynman..."):
                 long_term_memory_text = build_long_term_memory_text(USER_ID, k=5)
@@ -190,21 +177,17 @@ with chat_tab:
                 )
                 st.markdown(answer)
 
-                # Text-to-speech button for this answer
                 if st.button("🔊 Read this answer aloud", key=f"tts_{len(st.session_state.messages)}"):
                     try:
                         text_to_speech_mac(answer)
                     except Exception as e:
                         st.warning(f"Could not speak answer: {e}")
 
-        # Add assistant message to history
         st.session_state.messages.append({"role": "assistant", "content": answer})
 
-        # Long-term memory: summarize and store this Q&A
         answer_summary = summarize_answer_for_memory(user_input, answer)
         add_memory(user_input, answer_summary, user_id=USER_ID)
 
-# ---------------- Voice tab ----------------
 with voice_tab:
     st.subheader("Voice interaction")
 
@@ -216,7 +199,6 @@ with voice_tab:
     if st.button("🎤 Ask by voice"):
         run_voice_feynman()
 
-# ---------------- Memory dashboard tab ----------------
 with memory_tab:
     st.subheader("Long-term memory view")
 
@@ -226,13 +208,10 @@ with memory_tab:
     if not user_mems:
         st.info("No memories stored yet for this user.")
     else:
-        # Show raw JSON (for debugging)
         with st.expander("Raw memories JSON"):
             st.json(user_mems)
 
-        # Show a nicer table
         st.markdown("### Recent memories")
-        # Reverse for latest first
         for m in reversed(user_mems):
             with st.expander(f"{m['timestamp']}  —  {m['question']}"):
                 st.write(f"**Question:** {m['question']}")

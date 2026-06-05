@@ -24,6 +24,46 @@
       "question": "what is quantum. mechanis in bried",
       "answer_summary": "Quantum mechanics is the fundamental theory describing how matter and energy behave at the smallest scales, where particles exhibit wave-like properties, exist in discrete energy packets, and their behavior can only be predicted probabilistically.",
       "timestamp": "2026-06-02T16:24:20.633335"
+    },
+    {
+      "question": "Explain Newton’s first law in simple words",
+      "answer_summary": "Newton's first law explains that objects tend to maintain their current state of motion, meaning they will stay at rest or keep moving at a constant speed and direction. This tendency, called inertia, only changes if an external force intervenes.",
+      "timestamp": "2026-06-02T19:18:09.777032"
+    },
+    {
+      "question": "Why do objects fall at the same rate even if one is heavier?",
+      "answer_summary": "Heavier objects experience a greater gravitational pull, but their increased mass also gives them more inertia, which resists acceleration. These two opposing effects precisely cancel each other out, causing all objects to accelerate downwards at the same constant rate due to gravity.",
+      "timestamp": "2026-06-02T19:19:21.620192"
+    },
+    {
+      "question": "What is a photon?",
+      "answer_summary": "A photon is the fundamental particle of light, representing a discrete packet of energy that makes up all forms of electromagnetic radiation, demonstrating light's particle-like nature. It has no mass, travels at the speed of light, and carries a specific amount of energy determined by its frequency.",
+      "timestamp": "2026-06-02T19:19:54.284892"
+    },
+    {
+      "question": "What is entropy, and why do things tend to get more disordered?",
+      "answer_summary": "Entropy describes the natural tendency for systems to become more disordered over time. This occurs because there are vastly more possible arrangements for a system to be messy than for it to be perfectly ordered, making the disordered state far more probable.",
+      "timestamp": "2026-06-02T19:20:23.066077"
+    },
+    {
+      "question": "Can you explain entropy using a messy room example?",
+      "answer_summary": "Entropy explains why systems naturally tend towards disorder, much like a room inevitably gets messy because there are vastly more ways for things to be disorganized than perfectly tidy. This natural progression towards messiness reflects the universe's tendency to move towards the most probable, disordered states.",
+      "timestamp": "2026-06-02T19:20:43.080126"
+    },
+    {
+      "question": "what is electric field",
+      "answer_summary": "An electric field is the region of space around a charged object where another charged object would experience an electric force. It quantifies the invisible influence a charge exerts on its surroundings, representing the electric force per unit charge at any given point.",
+      "timestamp": "2026-06-02T19:25:01.552863"
+    },
+    {
+      "question": "what is electric field",
+      "answer_summary": "An electric field is the invisible influence a charged object creates in the space around it, which would cause another charged object to experience a force. It is defined as the force per unit charge at any given point.",
+      "timestamp": "2026-06-02T19:30:38.445638"
+    },
+    {
+      "question": "Explain atoms in motion the way Feynman does",
+      "answer_summary": "The main physics idea is that all atoms are in constant, restless motion, continuously jiggling, vibrating, or flying around, which fundamentally explains the states of matter, temperature, and entropy.",
+      "timestamp": "2026-06-04T22:44:45.601388"
     }
   ]
 }

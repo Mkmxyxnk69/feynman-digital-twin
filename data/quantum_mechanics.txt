@@ -1,0 +1,618 @@
+Chapter 1: Intro
+0:3333 secondswe have a a theory which is called quantum electronamics which is our pride and joy. It's so
+0:4141 secondssuccessful and it's such so wide in its application. And what I would like to tell you about is that theory, how it
+0:5050 secondsworks or how it looks like it works, what the world looks like from that point of view.
+0:5858 secondsThe uh physics has got a history at least the theoretical history of uh synthesis
+Chapter 2: History of Physics
+1:051 minute, 5 secondsperpetually. Of course, experiment is always finding new phenomena. problem is to work them together and sometimes we see that they're different aspects of
+1:121 minute, 12 secondsthe same phenomenon. An example is of course the simplest and earliest one is that the laws of motion
+1:191 minute, 19 secondsbecame in the theory explained the properties of heat because heat was motion and if you knew how motion worked you could understand the thermal thermal
+1:271 minute, 27 secondsproperties. It also explained the properties of sound which is otherwise a mystery as the motion of the atoms and waves in the gas.
+1:351 minute, 35 secondsOn a side from that uh knowing the laws of motion, you had to know Newton who gave us the laws of worked out the laws of motion also gave us another theory
+1:441 minute, 44 secondsabout the forces between large masses and distances from one another called the theory of gravity. Well, that's just that that thing. The theory of gravity
+1:531 minute, 53 secondsis not is well known and understood pretty well, but is not what I'm going to talk about.
+1:591 minute, 59 secondsAs the time went on, phenomena associated with electricity, you know, rubbing combs in your hair and
+2:062 minutes, 6 secondsthings like that and magnetism became interesting to the experimental physicists and they discovered relations
+2:132 minutes, 13 secondsbetween them experimentally until they saw ultimately there were not two different phenomena but different aspects of the of the same thing.
+2:212 minutes, 21 secondsAnother phenomenon that Newton had studied was light. So without time it looked at first like there were many things motion and gravity, electricity
+2:292 minutes, 29 secondsand magnetism later and light. But when Maxwell put together the laws of electricity and magnetism he found out
+2:382 minutes, 38 secondsthat the behavior that the equations he had produced expectation that would be behavior of waves that would propagate
+2:462 minutes, 46 secondsat a speed which was figured out from electrical measurements but came out the same as the speed that light actually propagated. And so there was a new
+2:542 minutes, 54 secondstheory of light which is that it was an electromagnetic wave. And Maxwell's great synthesis in 1873 was to connect electricity, magnetism
+3:033 minutes, 3 secondsand light. Light is just one aspect of the electromagnetic wave which can have different kinds of wavelengths from that point of view. And if you have different
+3:123 minutes, 12 secondswavelengths, if the wavelength is very short, between about four
+3:193 minutes, 19 seconds100 millionth of a meter, no, of a centimeter, 400 millionth of a centimeter and 700 millionth of a
+3:263 minutes, 26 secondscentimeter, then you see it directly with the eye. But if it gets longer, the wave is well, there's a long end, it's red, and then the other end it's blue.
+3:363 minutes, 36 secondsAnd if it gets more longer than the red, we call it infrared. The rays are there, but the eye doesn't see them. The pit viper has a eye that sees the infrared.
+3:453 minutes, 45 secondsAnd if you go in the other direction into the al beyond the violet, then we can't see it again, but the bee has an eye that sees the ultraviolet. And uh if
+3:543 minutes, 54 secondswe go still further to the far ultraviolet, no animal has it that can see it, but we can make instruments that are detected or photographic plates and so on up into x-rays and so forth. And
+4:034 minutes, 3 secondsdown in the other direction, far infrared, uh, you get into radio waves and we can build instruments that detect them and we can use them to advertise soap in it.
+4:174 minutes, 17 secondsIn addition, so that that is an enormous range of one property, the wavelength,
+4:244 minutes, 24 secondsa range of phenomena that's a complete enormous spectrum. The spectrum we see with the eye is a very narrow range and it's the entire spectrum. It's all put
+4:324 minutes, 32 secondstogether with a one theory of electromagnetic waves. I'm going to talk about that part of it.
+4:394 minutes, 39 secondsIn fact, I'm going to call it light instead of saying electromagnetic radiation. Light is what we see is only one little part. But from the physicist
+4:474 minutes, 47 secondspoint of view, the accident that the human eye happens to be sensitive to waves from here to here is not essential. The phenomena are the same
+4:554 minutes, 55 secondsover the whole range. And we call I'm going to call them all light, but it could be radio waves or x-rays or what have you.
+Chapter 3: Structure of Atoms
+5:065 minutes, 6 secondsNext thing that was discovered was the structure of the atoms. And that I'd like to remind you that you have I believe a Nobel Prize winner from New
+5:135 minutes, 13 secondsZealand before Mr. Rutherford who was I believe a New Zealander who worked out that the atoms had nuclei. You know, seemed always here. I've only been here
+5:225 minutes, 22 secondsa few days. Everybody's talking themselves down. I thought this would be a happy country, but something's happened to you.
+5:305 minutes, 30 secondsYou've got plenty of room and not too many people and it looks like it ought to be good. Anyway, you do don't forget you had Rutherford, so it's okay.
+5:425 minutes, 42 secondsAnyhow, he had a theory of the he developed our understanding of the atoms as having a tiny core. It's very heavy
+5:495 minutes, 49 secondswith the particles going around it, electrons. Now supposing that the electrons went around according to the laws of motion of Newton, some
+5:575 minutes, 57 secondsproperties of matter could be understood supposing the atoms are made that way.
+6:016 minutes, 1 secondBut most of the time it failed and it became more and more of a crisis in physics to understand what matter was like
+6:106 minutes, 10 secondsbecause it looked so obviously right that it had to be electrons going around nuclei. And yet nothing worked when you worked it out. And the discovery was
+6:196 minutes, 19 secondsmade then in the discovery of quantum mechanics. First in the behavior of light and then in the behavior of matter and finally culminating in 1926 with the
+6:276 minutes, 27 secondsfull equation of quantum mechanics which told us that the laws of motion of Newton were not right and had to be modified to other laws which are quantum
+6:366 minutes, 36 secondslaws of motion. And when this quantum laws of motion were applied to electrons to explain the properties of matter, it was a fantastic success.
+6:456 minutes, 45 secondsThe properties of the atoms can be all worked out. mathematically in principle at least in the simple atoms in detail and therefore the theory behind
+6:536 minutes, 53 secondschemistry which atoms combine with which at what rate and so forth it is in principle theoretical chemistry deeply is physics
+7:027 minutes, 2 secondsit's not a joke it's a direct the chemist will admit that's exactly his point of view that the understanding of the atoms in the deepest level is
+7:107 minutes, 10 secondsphysical physics except that the atoms have so many particles in them it's very hard to calculate what's going to happen so he has to use a lot of empirical
+7:177 minutes, 17 secondsrules to help him. But in as far as we can tell, there's nothing about chemistry that's not understood
+7:257 minutes, 25 secondsultimately as the behavior of electrons following the laws of motion of quantum mechanics.
+7:317 minutes, 31 secondsThis defines the properties of all substances also and so that the whole theory of the properties of ordinary substances and the chemical properties and so forth have all been reduced to the motion of electrons.
+7:437 minutes, 43 secondsIn the meantime, the theory of light and its interaction with matter which was Maxwell's equations had to be modified to become a quantum theory also. Oh, I
+7:527 minutes, 52 secondsforgot to mention that during this time one to somewhat to one side of the way I want to go in these lectures. I would not going to discuss much about
+8:008 minutesrelativity but the theory of relativity was developed and that just makes it easier for us to guess laws. It tells us if we know how something varies in space
+8:098 minutes, 9 secondsthen we know how it varies in time or vice versa. that there's a nice relationship between a behavior in space and behavior in time and that it's all
+8:178 minutes, 17 secondssort of different aspects of the same geometrical thing called spacetime.
+8:228 minutes, 22 secondsAt any rate, Dak using the principles of relativity and new quantum and the new quantum mechanics found a wonderful
+8:308 minutes, 30 secondstheory as simple as possible thing he could write down for the motion of electrons dur theory of electrons and
+8:378 minutes, 37 secondsthat was the situation about 1927 or 8 but the problem of the interaction of
+8:458 minutes, 45 secondselectrons with light which was a complete quantum theory of electronics other words make Maxwell's equations of light of electricity of magnetism and
+8:538 minutes, 53 secondsthe theory of motion of electrons all into one grand theory was accomplished in 1929 in a theory was that was called quantum electronamics.
+9:039 minutes, 3 secondsTrouble with it was nobody could figure anything out or better. When they did figure it out, they got nutty answers.
+9:099 minutes, 9 secondsIf you didn't do it too carefully, you got a reasonably good answer for a problem. But if you carried it out very carefully, you would get some silly answer like zero or infinity or absolutely absurd results.
+9:209 minutes, 20 secondsThis strikingly lasted for 20 years while people tried to figure out what the correct theory was.
+9:279 minutes, 27 secondsDuring this time experimenters were measuring things more and more accurately. the theory of uh the one of
+9:369 minutes, 36 secondsthey measured uh they found a few things with very subtle effects that the theory of interaction of light with electricity
+9:449 minutes, 44 secondsshould explain and then they measured them and they found these effects but they couldn't explain that is the theory didn't explain it quantitatively because
+9:529 minutes, 52 secondswhen the people made the calculation they got infinity instead of the right result as an example an electron in a magnetic field precesses at a certain
+10:0010 minutesrate and the rate according to dra was a certain amount but when he didn't take into account the interaction of
+10:0710 minutes, 7 secondselectricity and light and when he took it into account we knew that the answer should be wrong let's say that the raq's answer was right but when experiment was
+10:1610 minutes, 16 secondsmade it came out not to be one but to be a little bit more uh this number here the experimentals weren't good enough to
+10:2410 minutes, 24 secondstell us exactly it's somewhere between five and 21 here we write it as eight plus or minus three as the next digit
+10:3310 minutes, 33 secondsThat means this is not measured accurately. So in 19 uh I'm sorry by 1948 20 years we had at last measured
+10:4110 minutes, 41 secondssomething which showed that the original theory was without interaction is incomplete. This is supposed to be the result of interaction. When you went to calculate it you got infinity.
+10:5210 minutes, 52 secondsSo there was a very strong effort made then in 1948 because of the fact that experiments were showing such accuracy
+10:5910 minutes, 59 secondsto try finally to get that theory straightened out. And it turned out surprisingly it was worked out more or less independently by three guys who got
+11:0811 minutes, 8 secondsNobel prizes of one of which you see here. And uh Professor Swinger, that's not me, but
+11:1711 minutes, 17 secondsthe other one of the other ones first worked out a correct way. We we found out that the original theory that was
+11:2411 minutes, 24 secondswritten in 1929 by Heisenberg and Dak and Pley was very nearly correct. And the problem was that there was something
+11:3211 minutes, 32 secondswrong with the way they handled doing the calculations and we straightened it out and then we could do calculations and Schwinger for example calculated
+11:4011 minutes, 40 secondsthis and found out that it was something like this theoretically and that was a tremendous achievement. It's a great excitement
+11:4811 minutes, 48 secondsbecause that meant we really understood much more subtle details and that the original theory of Heisenberg and Durac and so on were fundamentally was
+11:5711 minutes, 57 secondsfundamentally right just a little switch on how you calculated things now this is the theory then that we're going to talk
+12:0412 minutes, 4 secondsabout this theory has lasted now for 50 years 50 years 30 years I can't add from 1979
+12:1312 minutes, 13 seconds1949 oh it's 50 years. Yes. From the time that Durk and and Heisenberg wrote it and it took 20 years to figure out how
+12:2012 minutes, 20 secondsto calculate with it. Then the remaining 30 years the methods of calculations improved. They calculated things much more accurately and the experimenters
+12:2912 minutes, 29 secondsbecame more and more adept at measuring things. And this particular rate that they uh measured in 1948 to here now in
+12:3812 minutes, 38 seconds1979 has been measured to be in fact 10 1159
+12:4712 minutes, 47 seconds65 24 and the four may not be four. It could
+12:5412 minutes, 54 secondsbe somewhere between two and six. After all, the more you write it, the somewhere you have to stop, right? And
+13:0213 minutes, 2 secondsthis I write to show you the tremendous achievement of experimenters during the last 30 years in order to test with the precision the correctness of the theory.
+13:1413 minutes, 14 secondsIn the meantime, poor guys using calculators and sweating and writing marks on pieces of paper. So on calculating the results of the theory
+13:2113 minutes, 21 secondsunder the same circumstances for the same phenomena produce a predicted value that it should be 6523 within min plus or minus three. Why
+13:3013 minutes, 30 secondsshould the theories have a plus? They get exhausted in computing the number of decimal places that they eat to to keep up with experimenters.
+Chapter 4: Precision
+13:4013 minutes, 40 secondsThere are this is not atypical. There are two or three or four perhaps different places where it's been measured and checked to that degree of accuracy.
+13:5013 minutes, 50 secondsThis degree of accuracy, that number of decimal places corresponds to a precision something like this. If you were measuring the distance to of me to
+13:5713 minutes, 57 secondsthe moon, the question would come up, do you mean from my chin or from the top of my head?
+14:0314 minutes, 3 secondsThe difference between whether it's from the chin or the top of my head to the moon is the plus and minus two on the end of that number in proportion. All right?
+14:1214 minutes, 12 secondsthat is uh to intimidate you that the theory is correct uh in high accuracy.
+14:2114 minutes, 21 secondsI have don't need to produce a large number of other experimental results.
+14:2514 minutes, 25 secondsThey all have this feature. It is remarkable that at this time it is possible to say that there's no experimental discrepancy known between
+14:3314 minutes, 33 secondsthe predictions of the theory anywhere and uh results of experiment. That doesn't mean we can compute everything.
+14:4214 minutes, 42 secondsThe rules of the game by which we make the computation, the laws underneath everything that makes nature work are simple.
+14:5114 minutes, 51 secondsIt doesn't mean we can really figure everything out. To give an example, if you play the game of checkers, I think you call it checkers here, maybe draws something.
+15:0215 minutes, 2 secondsThe rules of the game are very simple.
+15:0415 minutes, 4 secondsThe way the pieces move is simple. And if you want to make it even simple, make the rule no kings, but when you come to the end of the board, you start at the beginning. Doesn't make any difference.
+15:1115 minutes, 11 secondsThe rules are simple.
+15:1415 minutes, 14 secondsBut imagine a checkerboard with 100 million piece squares on each side.
+15:2015 minutes, 20 secondsHundreds of millions of these checkers in different positions moving through the board, taking pieces and being taken from the other. Which way are they going
+15:2715 minutes, 27 secondsto swirl? Which way is the game going to go? That takes a lot of thinking. It isn't the difficulty of the rules that's involved but the multiplicity of its action and interconnections.
+15:3915 minutes, 39 secondsMatter as you all know be many atoms and all this stuff is such a multitude of little particles that in ordinary
+15:4715 minutes, 47 secondscircumstances so much is happening that in spite of the fact that the rules are relatively simple not quite as easy as the checker
+15:5515 minutes, 55 secondsrules but pretty easy. It still is very difficult in almost all circumstances to figure out what's going to happen exactly.
+16:0316 minutes, 3 secondsBut when we can't figure it out exactly, but can do a pretty good job of approximating the phenomenon is in the range that we expect. When we have a
+16:1116 minutes, 11 secondssituation that's sufficiently simple, a corner of the board where there's only a few pieces, then we can compute exactly what ought to happen and we do
+16:1816 minutes, 18 secondsexperiment in those circumstance that fits exactly. And that's all we can say at the moment about this theory.
+Chapter 5: Design
+16:2716 minutes, 27 secondsThis uh theory has been designed was originally designed in this ideas of space and time and a geometrical framework.
+16:3516 minutes, 35 secondsThe question is how small a scale can we go down to and during the time of this this period of time we not only meas tried to measure accuracy but also tried
+16:4416 minutes, 44 secondsto see how small a distance the theory would be correct at and I can only tell you the distance is 10 the minus5 cm
+16:5216 minutes, 52 secondsthat means 05 zeros before you get to 14 zeros before you get to a first digit of
+16:5916 minutes, 59 secondsdistance in centimeters we that thing is that acc we know that the laws are that accurate to put it another way It used to be thought that atoms were small.
+17:0717 minutes, 7 secondsThat was a limit of measurement. But uh at the present time with the new instruments and the vine during all this time, we've been able to make
+17:1517 minutes, 15 secondsinstruments that can test this theory down to distances that could be described this way. If the atom is made 100 kilometers on a side, then we're
+17:2317 minutes, 23 secondsmeasuring with 1 cm accuracy inside. So the theory is right. The distances correspond to a centimeter when an atom is 100 kilometers.
+17:3317 minutes, 33 secondsSo altogether I can only emphasize with delight and excitement the fact that so
+17:4017 minutes, 40 secondsmuch of nature is so accurately describable by one theory.
+17:4617 minutes, 46 secondsThis enormous range of phenomena all the things you ordinarily see. The best way to describe what the phenomena
+17:5517 minutes, 55 secondscolors of things this softness of materials the weight of things the way they temperature when you change the temperature how much heat it takes and
+18:0318 minutes, 3 secondssounds and a whole these phenomena yet only best way to describe is to describe the phenomena that are not included in this theory and one of them is the
+18:1218 minutes, 12 secondsaccelerations produced by gravity the force of gravity is in another theory gravitational theory or general relativity another range of phenomena
+18:2018 minutes, 20 secondshave to do with exciting in the interior of nuclei and nuclear physics, protons and neutrons, radioactivity and nuclear
+18:2818 minutes, 28 secondsphenomena that excluded all the rest of the phenomena of nature are contained in this one theory. Now you can see why it
+18:3618 minutes, 36 secondsis that I feel a bit uncomfortable when come someone asked to give a talk please tell us the latest things because then I'm talking about our problems that we
+18:4418 minutes, 44 secondshave in trying to understand the insides of a proton for example for a proton to tell you a contrast our understanding
+18:5218 minutes, 52 secondsof the outside of the atoms the electrons and light that I'm going to talk about a theory it's our jewel and great achievement to the things that
+19:0119 minutes, 1 secondpeople ordinarily have to talk about at these lectures it's as follows you take The corresponding number for a proton,
+19:0819 minutes, 8 secondsI don't remember it. It starts at 273, I think 1 nine, I'm not sure. Or is it 2719? I don't remember. And it goes on
+19:1519 minutes, 15 secondsfor a number of decimal places because the experiment that can measure it so well. Now, we have a theory of the protons recently developed involving
+19:2219 minutes, 22 secondsquarks and so on. We can't make any calculations yet. We haven't developed a technique good enough. So, the best I could say really and probably
+19:2919 minutes, 29 secondsexaggerating is that the theory does say that this number should be around three.
+19:3419 minutes, 34 secondsand the error and that's what I think I must be bigger. I can't prove that it's as small as might be.3.
+19:4119 minutes, 41 secondsUh that gives an idea of how sloppy our understanding of protons is compared to that due precision that we understand electrons. All right.
+19:5219 minutes, 52 secondsSo that gives us some idea of why it is I feel so uncomfortable talking all the time about what we don't know much about
+19:5919 minutes, 59 secondsand nobody asks me about the stuff we do know everything about. So therefore I'm forcing upon you a lecture on the things that we think we know something about.
+Chapter 6: Theory
+20:1520 minutes, 15 secondsOkay. So that's our job. Now the question is what am I going to do? I'm going to tell you what the theory is.
+20:2120 minutes, 21 secondsI'm going to tell you what it looks like.
+20:2420 minutes, 24 secondsWhat we do to make the calculation just what the thing is because otherwise how are you going to understand what world picture? In other words, this
+20:3220 minutes, 32 secondsthing is and it is a world picture because it describes all the phenomena except for radioactivity and gravity in the world.
+20:4220 minutes, 42 secondsThat's a lot of phenomena.
+20:4520 minutes, 45 secondsIt's possible even it might explain and should explain if everything is thoroughly understood the laughter of the audience when you make a dumb remark.
+20:5420 minutes, 54 secondsIf I'm going to explain this theory, the question is are you going to understand it? Will you understand
+21:0021 minutesuh the theory when I tell you first that the first time we really thoroughly explain it to our own physics students is when they're in the third year
+21:0921 minutes, 9 secondsgraduate in graduate physics then you think the answer is going to be no and that's correct you will not understand
+21:1921 minutes, 19 secondsbut this business about not understanding is a very serious one that we have between the scientists and the audience and I want to
+21:2821 minutes, 28 secondshave worked with you because I want want to tell you something. The students do not understand it either
+21:3621 minutes, 36 secondsand that's because the professor doesn't understand which is not a joke but a very interesting I think and I would like to explain it.
+21:4821 minutes, 48 secondsMy task really as a to explain all this is to convince you not to turn away because it appears incomprehensible.
+21:5921 minutes, 59 secondsThat's what it takes four years of us to do to the student is to get him so he doesn't run away because it looks crazy.
+22:0722 minutes, 7 secondsThe thing that's exciting about this is that nature is strange as it can be in this sense that the rules that are going
+22:1522 minutes, 15 secondsto be obey that I'm going to tell you about by which this stuff is analyzed by which we understand nature the rules of the checkers yeah are so screwy you can't believe them.
+22:2822 minutes, 28 secondsNevertheless, if you follow out the consequences and see what they do, sure enough, all the ordinary phenomena that happen, you can understand.
+22:3722 minutes, 37 secondsThat's hard to do because you have to know how to count big numbers, do lots of arithmetic, and so forth to see how
+22:4522 minutes, 45 secondsit is that these rules really explain common experience. That will be more difficult here to understand. What is not difficult is this.
+22:5622 minutes, 56 secondsWell, that's difficult enough. Yes, because it's so strange. But it's no more difficult for you than for the students and no less difficult.
+Chapter 7: Understanding
+23:0523 minutes, 5 secondsI know sometimes I hear people coming to my lectures to say, "Oh, I'm going to come to your lecture although I know I'm not going to understand anything." It makes me feel bad. Or when they come up
+23:1423 minutes, 14 secondsafterwards, they say, "Oh, I enjoyed your lecture. It was lots of fun. I didn't understand anything you said." I really am trying to make myself clear.
+23:2223 minutes, 22 secondsSo, I would like to discuss this with you. Will you please keep coming in spite of the fact that you don't understand it because I don't understand
+23:2923 minutes, 29 secondsit either. And the fun of it is that we it's so mysterious. Okay, that's the fun of it. So this business about understanding requires just a few words.
+23:3923 minutes, 39 secondsAnd so I'm going to say something about the relationship and I would hope we get some of your cooperation. Sometimes
+23:4623 minutes, 46 secondsyou don't understand because say the language is the fellow comes from American. He talks too fast. That's my
+23:5323 minutes, 53 secondsfault and I apologize. I hope it's all right. That's a kind of trivial difficulty relatively.
+24:0024 minutesNext kind of not understanding is because I perhaps use new words. That's an accident that comes because I'm working technically and I use the words
+24:0724 minutes, 7 secondsaudi every day and I forget that everybody doesn't know what they mean and I have to be very careful. Again, my job.
+24:1424 minutes, 14 secondsThen there's a kind of saying that you don't understand it. Meaning I don't believe it. It's too crazy. It's the
+24:2224 minutes, 22 secondskind of thing I just I'm not going to accept it.
+24:2724 minutes, 27 secondsUh the other poss well this kind I hope you'll come along with me. You'll have
+24:3424 minutes, 34 secondsto accept it because it's the way nature works. If you want to know the way nature works we looked at it carefully.
+24:4224 minutes, 42 secondsLook at the that's the way it looks. You don't like it? go somewhere else to another universe where the rules are
+24:5024 minutes, 50 secondssimpler philosophically more pleasing, more psychologically easy. I can't help it.
+24:5724 minutes, 57 secondsOkay? If I'm going to tell you honestly what the world looks like to to the to human beings who have struggled as hard
+25:0525 minutes, 5 secondsas they can to understand it. I can only tell you what it looks like and I cannot make it any simp. I'm not going to do this. I'm not going to simplify it. I'm
+25:1425 minutes, 14 secondsnot going to fake it. I'm not going to make tell you it's something like a ball bearing on a spring. It isn't.
+25:2125 minutes, 21 secondsSo, I'm going to tell you what it really is like and if you don't like it, that's too bad. Okay.
+25:2925 minutes, 29 secondsThere's also the possibility that you don't understand because you're con you get a bit confused and you're sure that you must have misinterpreted what I said
+25:3825 minutes, 38 secondsor uh something like that and you get turned off and that's a cause of difficulty. Let me assure you that most of the time you did interpret correctly
+25:4625 minutes, 46 secondswhat I said because if it does I'm going to it's going to be so shocking the way nature actually works that you're not
+25:5325 minutes, 53 secondsgoing to believe that either. I faked it. I'm not telling you the full story that for the students I have another way of explaining it or something like that.
+26:0126 minutes, 1 secondIt is not true. I'm going to be honest. Okay.
+Chapter 8: Mayan Lighting System
+26:0526 minutes, 5 secondsSo I'm going to ask you to try not to get turned off and not to be afraid.
+26:0926 minutes, 9 secondsRelax and enjoy it. realize that nobody understands it.
+26:1726 minutes, 17 secondsWhat the hell are my students learning for four years if nobody?
+26:2126 minutes, 21 secondsI'm going to explain and I'm going to explain by a kind of an example.
+26:2626 minutes, 26 secondsUh I like to take the Mayan Indians. They had a writing system and we know some of the things they wrote were astronomical
+26:3426 minutes, 34 secondsthings and they had a scheme for predicting many things in the sky, eclipses and so on. Let's take the
+26:4126 minutes, 41 secondsexample of when Venus, which was important to them because it represented evil of some sort, was a morning star
+26:4826 minutes, 48 secondsand when it was an evening star. So they could predict ahead of time whether this bad influence was going to be in the morning or in the evening. And so they
+26:5726 minutes, 57 secondsdiscovered that if they waited that this cycle of morning, evening,
+27:0527 minutes, 5 secondsmorning, evening, morning, evening, five of those occupied just exactly the same time as
+27:1227 minutes, 12 secondseight times a certain period that was important to them, 365 days. It's not exactly a year, and they knew the
+27:1927 minutes, 19 secondsdifference, but they still counted in 365 day intervals, which they called a tomb. So they said that five of these cycles is eight tunes.
+27:3027 minutes, 30 secondsThen they uh discovered of course very quickly that if they did this five cycle bit for eight tunes 10 times, they were
+27:3727 minutes, 37 secondsoff by about six days. And so they had a rule for shifting the making corrections as they went along
+27:4527 minutes, 45 secondsand thus had a very good way to predict when Venus was coming up. Okay.
+27:5127 minutes, 51 secondsNow let's uh look at this thing from a point of view. Suppose that the professors, the priests in those days who wrote the stuff and taught their
+28:0028 minutesstudents these rules were giving a lecture to try to explain what they did in order to make these wonderful predictions about Venus.
+28:0828 minutes, 8 secondsThen if the fellow was any good at exposition and really knew what he was doing, he would say, "What we're doing is we're counting the days just like
+28:1628 minutes, 16 secondsyou're putting nuts in a pot." And we keep on counting 58 uh 365 nuts
+28:2428 minutes, 24 secondsand then another 365 and another 365 and another guy said, "What a lot of work." And we get all finished. We said,
+28:3028 minutes, 30 seconds"That's five of these periods." Now they understood what he said. That's easy. They did not know a quick and
+28:4028 minutes, 40 secondstricky way to add 365 times eight. I'm sorry I said five I meant eight times.
+28:4728 minutes, 47 secondsUh the students were learning in the meantime the laws of arithmetic something which is to us now because we
+28:5528 minutes, 55 secondshave public and pre-educ uh general education almost everybody has to struggle through and learn how to add numbers by a tricky scheme of writing
+29:0229 minutes, 2 secondsthem in place system and making carryings and so on. So that a if you buy wine for $4.15 and your meal is 287
+29:1029 minutes, 10 secondsor vice versa, it costs 702. And the girl who does this, the waitress, just ordinary person in 2 minutes does that.
+29:1729 minutes, 17 secondsHow did she do it? What is she doing when she's adding 415 to 287? She's doing this counting out 415 pennies,
+29:2529 minutes, 25 secondsthen counting out 287 more pennies and telling you how many pennies you would have got if you counted them all from the beginning to the end.
+29:3629 minutes, 36 secondsBut it's a highly educated and very trained to be able to do that with those large numbers quickly. This training is is something in spite of the fact that
+29:4329 minutes, 43 secondseverybody's got it. It's something pretty good because in the 14th century mathematicians were they were called who could do that.
+29:5229 minutes, 52 secondsAlmost everybody in our civilization can do that. But I would I took this example you can understand what's involved
+30:0130 minutes, 1 secondwhat the students are taught. You see in our particular problems now about physics there are many bigger numbers.
+30:0830 minutes, 8 secondsThe numbers are much bigger. It's hard because the numbers are so enormous you can't count them directly. And so we've invented a fantastic array of tricks and
+30:1830 minutes, 18 secondsgimmicks for putting together the numbers, adding, counting, checking, and so forth without actually doing it the
+30:2630 minutes, 26 secondsway I could describe what we're trying to do. If I say I draw this, and I draw that, and I draw this, and I draw that, and I see where the end point is, we
+30:3330 minutes, 33 secondsdon't actually sit down and draw 7,000 arrows and find out where the end point.
+30:3930 minutes, 39 secondsWe have a way of figuring out where it comes just like we don't actually count 415 pennies and 287 pennies to find out that you owe me 702 pennies.
+30:5030 minutes, 50 secondsWe do it by another trick. This are the tricks of mathematics and that's all. So that's the part I'm not going to worry about. We're not going to worry about
+30:5730 minutes, 57 secondsthat. So don't relax. You don't have to know mathematic. All you have to know is what it is. All it is is tricky ways of doing something which would be laborious otherwise.
+31:0831 minutes, 8 secondsSo what the it's true that in the years we have developed enormous abilities in
+31:1531 minutes, 15 secondsmathematics and it takes a long time to train the students and so therefore they're very highly educated in that but if you ask them why now we go back to
+31:2431 minutes, 24 secondsthe Mayans we ask them why why you wait fill up a tub eight times
+31:3231 minutes, 32 secondswith 365 day markers it comes out that the Venus is up five times time
+31:3931 minutes, 39 secondsthey don't know. They don't understand at all. The more accurately they can do it, the fact that they know that they have to change it by six days and so
+31:4731 minutes, 47 secondsforth adds nothing to their understanding of it.
+31:5231 minutes, 52 secondsThe student who has learned all this mathematics and is able to make these calculations not only of Venus and the Mars, the sun, the eclipses and everything else is a super priest.
+32:0332 minutes, 3 secondsDoesn't know why any better. And if he would explain it nothing but counting days, he would be reduced to the truth
+32:1132 minutes, 11 secondson the one hand and to an honest statement that he doesn't understand it other hand and could tell somebody all about it who doesn't know how to count
+32:2032 minutes, 20 secondsall these numbers so trickly and so cleverly as this priest students knew. Okay. Now probably I don't know about philosophy
+32:2832 minutes, 28 secondsof Mayas. We have very little information due to the efficiency of the Spanish concistadores and uh well mostly their priests who burned all the books.
+32:4032 minutes, 40 secondsThey had hundreds of thousands of books and there's three left and one of them has this penis calculation.
+32:4832 minutes, 48 secondsSo that's how we know about that and uh just imagine our civilization reduced to three books the particular ones left by
+32:5732 minutes, 57 secondsaccident which one see so uh anyway I get off the subject
+33:0433 minutes, 4 secondsI make this up now that what I'm saying now is just a story suppose now that the students would discuss or people would discuss the possible meanings of this
+33:1433 minutes, 14 secondswhy then they would begin to think about well 8 * 365 Five is 2920. That's got two twos in it. Now two is a lucky
+33:2233 minutes, 22 secondsnumber and it has two twos in it. And then the nine represents the god of so and so which is related to Venus and so forth. And that would be a good
+33:2933 minutes, 29 secondsargument. Then but in another city some other guys getting together would have a different kind of an argument about it.
+33:3533 minutes, 35 secondsThey'd say look now the fact that there's a 20 at the end if I subtracted that away first I get 2900 which is especially good number from
+33:4233 minutes, 42 secondsand so on. and they would have different theories and then someone would come along and say you know it doesn't make
+33:4933 minutes, 49 secondsany difference which one of these theories is right we still have this fact to go along with and that is our modern scientific point of view in the
+33:5733 minutes, 57 secondsearliest days of science we got confused arguing philosophically what was a reasonable reason for nature of hoard vacuum or it seemed to be nice that gods
+34:0634 minutes, 6 secondswere doing it different kinds of psychological reasons for thinking it probably is all right after you discovered what it was these things were never useful for predicting what should
+34:1534 minutes, 15 secondshappen next. And we soon learned not to make these arguments. It's useless. It doesn't add anything. And so, we're not
+34:2234 minutes, 22 secondsgoing to make my imaginary Mayan uh arguments about the various gods that make the numbers. And so, I'm left, if I'm a modern scientist, with a description of the situation. All right.
+34:3334 minutes, 33 secondsNow, I prepared the audience. Used up all my time to prepare the audience.
+34:3734 minutes, 37 secondsDoesn't make any difference. But I will continue anyway in spite of the fact I used up all the time to uh describe the
+34:4434 minutes, 44 secondstheory and in describing it I will first describe some part of it. The theory is
+34:5134 minutes, 51 secondsthe properties of light electrons and the interaction of light and electrons.
+34:5734 minutes, 57 secondsIt's all one theory. I cut it into three parts that way. And the first thing I'm going to start with is the uh properties
+35:0535 minutes, 5 secondsof light. Okay? I'm going tell you some of the properties of light and I hope if I can do it to get to the key point and
+35:1335 minutes, 13 secondsthen uh we'll continue in the following lectures to elaborate on it.
+35:2035 minutes, 20 secondsFirst uh I don't go through the history of the theory of light. It had various things.
+35:2635 minutes, 26 secondsThe first and most important thing I would say is that Newton found out that what we see as white light is a mixture
+35:3335 minutes, 33 secondsof otherwise pure stuff that's easy to understand. If you understand how each of the parts works, you just put the mixture back together again. And they
+35:4135 minutes, 41 secondsseparated the light in the prism, which is done automatically in Oakuckland very often, at least as far as I can tell, in
+35:4835 minutes, 48 secondsrainbows. And uh the various colored if you would separate light in a prison and take out the part that looked say
+35:5635 minutes, 56 secondsyellow, then you couldn't separate that any further in another prison. It just stayed yellow. And all that's called monochromatic light. Light of one color.
+36:0436 minutes, 4 secondsSo I'm going to discuss all my phenomena for a while with light of one color because it's simpler.
+36:1236 minutes, 12 secondsThe first thing Newton believed that light was a corpuscular thing and had very turned out to have very strange properties from that point
+36:1936 minutes, 19 secondsof view and it was then explained that many of these strange properties was because in fact it was a wave which was wrong. It turned out he was right. It was a particle.
+36:2936 minutes, 29 secondsIt is corpuscular.
+36:3236 minutes, 32 secondsuh the reason that he said it was copuscular was based on an incorrect guess as to the behavior of waves and
+36:3936 minutes, 39 secondshis argument was wrong logically but it turned out in the end that it was particles now how I talk about how I
+36:4836 minutes, 48 secondsknow it's particles is this if we make an instrument to detect light that's as sensitive as it can possibly
+36:5636 minutes, 56 secondsbe made we make it more and more sensitive in fact this thing is called a photo multiply And that's not the only instrument. I
+37:0437 minutes, 4 secondsjust take one for an example. It doesn't make any iss how we do it. When we get to light that's sufficiently weak, an instrument to detect it
+37:1337 minutes, 13 secondsis clicks pulses uh as if it was rain falling on something. You can bang bang bang bang.
+37:2237 minutes, 22 secondsWhen the light is bright, the rain go bang. A lot of them. When the light is very dim, boom boom boom boom. small.
+37:3037 minutes, 30 secondsThe particular boom booms and the bang bang bangs and so forth are completely out of proportion. The actual rate is enormous, okay? And a little bit less
+37:3837 minutes, 38 secondswhen there's less light. It's very difficult to get it to a boom boom boom.
+37:4237 minutes, 42 secondsYou could so dark in here you wouldn't know about.
+37:4737 minutes, 47 secondsBut uh this device to show you an example of how it works just so you understand what happens when we detect the weakest possible light is it works
+37:5637 minutes, 56 secondslike this. is a metal plate here made with cesium or something. When light shines on it, it knocks an electron out.
+38:0238 minutes, 2 secondsThen you have another plate here with a voltage that attracts the electron. So the electron so to speak falls. It's attracted and speeds up and hits this
+38:0938 minutes, 9 secondsplate. When it hits this plate about a 100 volts of energy, it splatters. Other
+38:1638 minutes, 16 secondselectrons get knocked out of the two or three, five perhaps on the average. And those are attracted to another plate.
+38:2438 minutes, 24 secondsAnd they all go sailing down here with another 100 volts, five of them this time. And each one of those knocks out on the average five or six other
+38:3138 minutes, 31 secondselectrons. Now I got 25. Yeah. And that's attracted to another plate and that hits those and so on and you have a maybe 10 or a dozen plates.
+38:4238 minutes, 42 secondsBy the time you get out the other end, you got such a chunk of charge and electrons, so many of them. You multiply 5 * 5 * 5 * 5. It' be a long time
+38:4938 minutes, 49 secondscounting pins to discover how much that is. You get such a tremendous pulse that you can number of electrons high enough
+38:5638 minutes, 56 secondsit can go directly through circuits and so forth and turn on and off switches and do all kind of things and make voltages to pin make noises do all these
+39:0539 minutes, 5 secondsamplified. Now what happens when we have a device like this and we put it in the dark is it goes click click click click click click every once in a while a light particle comes in a photon.
+39:1739 minutes, 17 secondsThis is a particle in every sense. The experiments have all the right properties as follows. That if you have a very weak light and you have one or two one of them every once in a while.
+39:2739 minutes, 27 secondsIf you put two cells out and there's just a few of them coming, then it goes on one or the other. They don't go off together. They go off together. You got
+39:3439 minutes, 34 secondstoo many coming and you can't resolve it. But if it's very weak, the particle is either here or there and it comes in particle. I don't know
+39:4239 minutes, 42 secondshow I can much I can emphasize this especially to young students who have learned its waves. It is particles in every way whenever you can detect it.
+39:5239 minutes, 52 secondsIt's unfortunate for us that we can see the light. I mean it's unfortunate for us. No, not quite. Not quite that we if we were 10 times more
+40:0040 minutessensitive to light than in the dark. We would see that what we're seeing is little flashes, little tiny dips, dots
+40:0840 minutes, 8 secondsof light. The nerve would go off just like this photo multiplier in spots.
+Chapter 9: Reflection
+40:1440 minutes, 14 secondsBut the human eye is not quite that sensitive and takes five or six of these particles, photons, five or six photons to make one nerve fiber go off. So it
+40:2240 minutes, 22 secondsisn't. So we cannot detect through the eye light quite low enough to notice the fact that it comes in the form of raindrops.
+40:3040 minutes, 30 secondsAll right, got that. They're particles, right? And you can detect them with an instrument.
+40:3540 minutes, 35 secondsYou can count them so and so many per second. Bright light, more per second.
+40:3940 minutes, 39 secondsDim light less per second. Okay. Now, we start to describe the properties of light a little further. Next property I
+40:4740 minutes, 47 secondswant to talk about is reflection from a glass surface or a water surface.
+40:5240 minutes, 52 secondsI believe everybody knows that you can see the sun or the moon, let's say, in the sea as it settles. Of course,
+41:0141 minutes, 1 secondreflections are a happy thing in art pictures. The moon's light reflected from the water, you have a a window, uh
+41:0941 minutes, 9 secondswhen you look through a window, you there must be millions of examples right back there. There is one. You look at a window, you can see through it, but also some reflection.
+41:1841 minutes, 18 secondsNow, already there's a problem because the light that's reflected is not as intense as the light that's shining. Some of the light goes through
+41:2641 minutes, 26 secondsthe window, say, or through the water down in. only some of the light comes back. If the light is headed for water, for example, straight down, only about 2% reflects.
+41:3841 minutes, 38 secondsWhat does that mean? Only 2% reflect.
+41:4041 minutes, 40 secondsThat means that if we had a photon counter here, let's say uh draw the experiment so you know what I'm talking
+Chapter 10: Photon Counter
+41:4741 minutes, 47 secondsabout. It's hard to make a water surface that's vertical. Yes. So, we'll make the water surface horizontal.
+41:5441 minutes, 54 secondsAnd uh light's coming down and some of it's reflected and we put a counter here to the one of those photo
+42:0142 minutes, 1 secondmultiplier things and we count the count and we know how much we should have got and we find what how can it be partly reflected.
+42:1342 minutes, 13 secondsWhen I forgot to say when I was talking about the particles when you have light of a definite color the energy that the first one knocks out is always the same.
+42:2142 minutes, 21 secondsEach particle is the same strength.
+42:2342 minutes, 23 secondsThere's no half particle. It's a full photon. What you get is full photon which you only if the light is dimmer.
+42:3142 minutes, 31 secondsWhat does that mean? There are fewer of them. Right? Simple. So of a 100 that come down here perhaps uh four. Now this way and 96 go through. What determines which four?
+42:4542 minutes, 45 secondsHow does it which one that's coming down of the 100 knows what to come back up? All right.
+42:5242 minutes, 52 secondsSo the situation is that the phenomena is probabilistic. It takes odds.
+42:5842 minutes, 58 secondsIt comes down here and has a 4% chance a one out of 25 trials. I think you know what odds are. If you have for instance
+43:0643 minutes, 6 secondsa die and you want to get a a one and you roll it, well it doesn't come out so often, but it comes out sometimes one
+43:1443 minutes, 14 secondsout of six. And uh what that means if you roll dice a 100 times let's make it 600 times a little easier. You roll a
+43:2343 minutes, 23 secondsdice 600 times you might get 105 ones or maybe 92 ones or something like that right you get about 100 and in the if
+43:3143 minutes, 31 secondsthe numbers were bigger the accuracy and percentage is bigger not accurate. So if you have billion six billion no not six
+43:3743 minutes, 37 secondsbecause I got 25 billion of these coming down about a billion will come off. Okay.
+Chapter 11: Probability
+43:4543 minutes, 45 secondsNow, let's see if the the next feature is how can it be probabilistic.
+43:5143 minutes, 51 secondsSuppose that I had a light so weak that I had only one photon coming every few minutes. Will this counter go off or will the one down here go off?
+44:0144 minutes, 1 secondOne out of 25 times this one goes off. Which time? What determines that? Possible theories.
+44:0844 minutes, 8 secondsNothing. Pure chance. The world is made of chance.
+44:1244 minutes, 12 secondsThat would mean that the physicist can't predict the future. It would mean that if you set up an experiment with exact conditions, you cannot predict what
+44:2044 minutes, 20 secondshappens in the future because you can't predict whether it's going to go up or going to go down. You just got 4% odds.
+44:2544 minutes, 25 secondsYour whole beautiful structure of science is reduced to computing odds.
+44:3044 minutes, 30 secondsNature instead of being definite does everything by chance.
+44:3544 minutes, 35 secondsNot so good. other possibilities there little spots on here and all has to the photon has to hit a spot on the surface
+44:4544 minutes, 45 secondsand Newton has several things you'll find out later when I give you more phenomena how these various explanations which way it's going to go and why the
+44:5344 minutes, 53 secondsspot one doesn't work but I'll give an argument that Newton made about that he said it can't be that because he said
+45:0145 minutes, 1 secondyou can polish glass it's wonderful I love to read these old guys you know They knew you could polish glass, but they had the intelligence to
+45:1045 minutes, 10 secondsdeduce from the fact that you can polish glass that there's no spots on it. Like, why? What's polishing? See, he polished.
+45:1645 minutes, 16 secondsHe had his own lenses. He ground his own lenses. So, he knew what it was doing. He takes a coarse grain sandlike stuff.
+45:2545 minutes, 25 secondsWhat do they call it? The the the polishing powder. I mean, the grinding powder. And that shapes it. It cuts, but it cuts fairly obvious grooves. Then you
+45:3445 minutes, 34 secondstake a finer one with finer particles and you cut the grooves are finer and you make the grooves finer and finer and finer. And after they're fine enough,
+45:4345 minutes, 43 secondssuddenly it's smooth and the light comes right through. When it's coarse, it's bounced around. And so he concluded that light cannot see the grooves that when I
+Chapter 12: Smallscale irregularity
+45:5145 minutes, 51 secondspolish it, it's not that it's smooth, it's still bumpy, but on a small scale.
+45:5645 minutes, 56 secondsWhereas when I have the big grains, it's on a big scale. It can't be any different. When I polish with the small grains, it's just a small scale regularity. But that somehow light doesn't see anything on a small scale.
+46:0546 minutes, 5 secondsCorrect?
+46:0746 minutes, 7 secondsAll experiments have shown that this is absolutely not the right explanation. If it was, there'd be all kinds of ways of testing that. I told you we can measure down to 10 the minus 15 cm and so forth.
+46:1746 minutes, 17 secondsAnd that what would happen would be you'd be able to find some area to focus very carefully the light so that the two that the reflection coefficient would be
+46:2546 minutes, 25 secondshigher than one and 25 because you happen to be near a place where there was a spot. You can't do it. No matter what you do, it's one in 25. Other
+46:3346 minutes, 33 secondspossibility, the light that's coming down here, the photons are doing are well uh like footballs
+46:4146 minutes, 41 secondsand they spin and depending upon whether they hit with the nose point or with a flat point depends on whether they bounce back. In
+46:4946 minutes, 49 secondsother words, something inside the photon is determining which way it goes. Again, no. Because you can, if that were the case, the light that went through would be all of a certain kind of football.
+46:5946 minutes, 59 secondsAnd if you tried the reflection again, you'd expect a different number than 4% because of the fact that they're all lined up. And you can't line light up.
+47:0747 minutes, 7 secondsYou can't fiddle around up here by any kind of filtering that'll change that percentage. All the lights photons are identical if they're the same color as
+47:1547 minutes, 15 secondsin one color. They're all identical and they behave with 4%. Are we therefore reduced to this horror that
+47:2447 minutes, 24 secondsphysics has got reduced not to these wonderful predictions but to probabilities? Yes, we have. That's the situation today. In spite of the fact
+47:3247 minutes, 32 secondsthat philosophers have said it is a necessary requirement for science that uh setting up an experiment exactly
+47:4147 minutes, 41 secondssimilar to will produce results exactly the same the second time. Not at all.
+Chapter 13: Light works by probability
+47:4547 minutes, 45 secondsOne out of 25 it goes up and sometimes it goes down. Unpredictable completely by chance.
+47:5347 minutes, 53 secondsAll right. I really see you turning off.
+47:5547 minutes, 55 secondsI sincere you say you don't understand me. You can't understand that it could be chance. I don't like it. Tough.
+48:0348 minutes, 3 secondsI don't like it either, but that's the way it is. Okay. I don't understand it either. I don't understand it. It must be that nature knows whether it's going
+48:1048 minutes, 10 secondsto go up or down. No, it has not be that nature know. We are not to tell nature what she's got to be. That's what we found out. Every time we take a guess as
+48:1948 minutes, 19 secondshow she's got to be and go and measure, she's clever. She's always got better imagination than we have. and she finds a cleverer way to do it that we have
+48:2748 minutes, 27 secondsthought of and in this particular case the clever way to do it is by probability by odds and so the first aspect I have to tell you about then is
+48:3548 minutes, 35 secondsthat light works by probability all right by the way just incidentally the wave
+48:4348 minutes, 43 secondstheory had no difficulty with this at all because what happened would be like the waves of something are coming down here and they shake and they just keep
+48:5248 minutes, 52 secondsgoing but some of them bounce back something like a sand law sometimes partially reflects the waves in the sea.
+48:5848 minutes, 58 secondsSo some of the energy went back, but the waves don't operate this thing. By the way, when you turn the light on,
+49:0649 minutes, 6 secondsthis might go off at any moment. You don't have to wait for a certain length of time. Of course, there's odd that it goes off at any instant, but it could accidentally go off the moment you open
+49:1449 minutes, 14 secondsthe slit. So, it's not a question of waiting for the energy of the wave to pile up or anything. It's hopeless. I have to start with lightest particles.
+49:2249 minutes, 22 secondsWaves explain many things, but not right. It's particle. Okay. Okay. It's photon. The problem is they have reflected with probability. Now the next
+49:3049 minutes, 30 secondsfeature having to do with reflection again that I would like to describe is something that you're all so familiar
+49:3749 minutes, 37 secondswith perhaps not so directly but perhaps you've seen the colors in soap bubbles.
+49:4349 minutes, 43 secondsIt's made out of soap water which has no color. No color. I've seen the color.
+Chapter 14: Colors
+49:4849 minutes, 48 secondsMix it together. Get a lot of soap water together and look at it. No color.
+49:5349 minutes, 53 secondsYou take oil, which is a sort of a yellow fluid and you it drips with blackish yellow junk. It drips out of an automobile on a rainy day. You must have
+50:0150 minutes, 1 secondexperience here with that. And you look at the puddle to your delight. There are colors colors.
+50:0950 minutes, 9 secondsThese colors are produced by reflections from two surfaces near each other, very
+50:1650 minutes, 16 secondsclose together. If the surfaces are far apart, we'll discuss it later. the same phenomenon really occurs, but it's much harder to see under normal circumstances.
+50:2650 minutes, 26 secondsWhat happens there is that in a soap bubble, for example, there's a layer of water and so we have two surfaces at
+50:3350 minutes, 33 secondssome distance from one another. So, and then the photon can either come down here and reflect right away or it can
+50:4250 minutes, 42 secondscome down this way and reflect from back there. Okay.
+50:4850 minutes, 48 secondsNo, as it turns out, it's about the same percent. If it's just water between air and air, it's about the same one and 25 both times.
+50:5950 minutes, 59 secondsWhat's the colors? If I'm going to do it with monochromatic light, that light of one color, what can you see in colors?
+51:0651 minutes, 6 secondsWhat you see on an oil film, on a mud puddle, or in a soap bubble when you use light of exactly one color is not
+51:1351 minutes, 13 secondscolors, but bands, bright and dark bands. places where the light is reflected very well and places where
+51:2151 minutes, 21 secondsit's not reflected at all across the bubble. Now the different the position of those bands. If you first
+51:2851 minutes, 28 secondslooked at a bubble with red light, you see bands black and black and red, black and red bands all over. You look at it with blue light, you also see blue and
+51:3651 minutes, 36 secondswhite, blue and black, blue and black bands, but the pattern is not the same.
+51:4051 minutes, 40 secondsThey're displaced from the where the red ones were. And so when you have both red and blue, you get purple and red and black and purple and so on. Now if you
+Chapter 15: Newtons Experiment
+51:4851 minutes, 48 secondsadd to that yellow with its pattern and so forth, you get all these colors for mixing. Okay? So we're going to simplify
+51:5551 minutes, 55 secondsexperimentally as as Newton did and look at these
+52:0252 minutes, 2 secondsuh this reflection. What Newton uh most of his experiments he did this clever way. He had a beautiful curved piece of
+52:1052 minutes, 10 secondsglass which was a lens and a flat piece and put them next to each other and then this was only a very slight curvature.
+52:1852 minutes, 18 secondsAnd so he had this gap between the two.
+52:2152 minutes, 21 secondsAnd when he shown light this way and looked at reflected light which depending on where you looked this is a cross-section of the lens which is more completely like that.
+52:3252 minutes, 32 secondsThere is some reflection in here which is irrelevant at the moment. This another glass plate down here.
+52:3752 minutes, 37 secondsWhen he looked in different places, the light came down all over. When he looked in different places, he was looking at cases that corresponded to reflection
+52:4452 minutes, 44 secondswith one gap or another gap between the sides. And when he looked at this with monochromatic light, looked down on it
+52:5252 minutes, 52 secondssince it was a circular, a spherical lens, he saw in what I call bands, but the soap bubble, but more organized, he
+52:5952 minutes, 59 secondssaw rings called Newton's rings with a black area starting and then red. if it was red light he was using and black red
+53:0753 minutes, 7 secondsand so forth. These looked like they were coming closer and closer together, but he was a clever man and understood immediately what it meant. If he
+53:1553 minutes, 15 secondsmeasured the distance from here to here and plotted the answer for whether it's red or dark against this distance, not
+53:2253 minutes, 22 secondsagainst this, instead of measuring away from the center, he measured how far apart these plates were. Then he found like our
+53:3153 minutes, 31 secondsfriends the Mayans, every time you had 365 points, they got black. In other words, if this was black and this was
+53:3853 minutes, 38 secondsred, then double that distance was black again.
+53:4353 minutes, 43 secondsAnd yes, and triple the distance was red and four times the distance was black and five times the distance was red and so on. Nice and even. In other words,
+53:5253 minutes, 52 secondsinstead of measuring by this distance, by measuring the thickness, you find the following experimental result.
+53:5953 minutes, 59 secondsreflection coefficient against thickness between the two layers.
+54:0654 minutes, 6 secondsOkay, the spacing between in this case if it's an oil film bubble with that that's the distance. In this case, it's the spacing between the lens and the
+54:1454 minutes, 14 secondsplate. And if you could change it, it's harder to change in a soap bubble under control, but it changes automatically as it dries out. You get the following. Get no reflection if the thickness is zero.
+54:2454 minutes, 24 secondsThen you get a strong reflection for a certain thickness. And then if you make it thick, you get no reflection. You have no thick reflection. Then you get no reflection, you get no reflection.
+54:3254 minutes, 32 secondsAnd so on so on and now it's getting thicker and thicker. Does this go on forever? Yep.
+54:4054 minutes, 40 secondsIf you got good enough monochromatic light and get the experimental control, you can make it go almost indefinitely.
+54:4554 minutes, 45 secondsYou can make this work for distances of a meter or more.
+54:4954 minutes, 49 secondsStill catch it, keeping track whether it's even, odd, even, odd, bump, bump, bump. Okay, that was nothing. That's
+54:5654 minutes, 56 secondsinteresting. Very interesting. But you know that's damning.
+55:0155 minutes, 1 secondWhy? Because what theory were you figuring for the reflection from that? That made the reflection be 4%.
+55:1055 minutes, 10 secondsThe odds 4% whatever.
+55:1255 minutes, 12 secondsYou put another layer down here at the right thickness expecting to get 8%. And you get nothing.
+55:2155 minutes, 21 secondsHow does a layer down here turn off the reflection from the layer up here? Or if
+55:2855 minutes, 28 secondsyou figure that out and you make the layer just a little thicker, it doesn't turn it off, but in
+55:3555 minutes, 35 secondsfact, the reflection is more than twice on this scale here.
+55:4255 minutes, 42 secondsThis line would have been what you would have expected if you expected it always to be 4% plus 4% or 8% from the two
+55:5055 minutes, 50 secondssurfaces. This is what you would have got if you disregarded all this nonsense that actually happened.
+55:5755 minutes, 57 secondsBut common sense, it reflects with a certain odds and it reflects from the other certain with the certain odds. And so altogether you got twice as many coming back. This is the twice as many.
+56:0856 minutes, 8 secondsBut for some if the thickness is zero, you don't get anything. If the thickness Hey, that's not such a bad idea, is it?
+56:1456 minutes, 14 secondsIf you don't have any water there at all, you wouldn't get any reflection. Starts out right anyway.
+56:2056 minutes, 20 secondsThat theory was kind of dumb now that I come to think of it. And that helps to explain Newton's observation. When the distance is too small, the light doesn't
+56:2856 minutes, 28 secondsknow anything about it. If the thickness is sufficiently small, it doesn't reflect. It does exactly the same as if there's nothing there.
+56:3556 minutes, 35 secondsBut the horror of it is it's all right that it increases as the thickness goes up, but it overshoots, you see, and then it comes back to zero again when the thickness is just right.
+56:4756 minutes, 47 secondsIt's very difficult to invent a probability thing. If I had these spots on this surface, it's very hard to see how you're going to have spots on this surface, which turns the spots on that
+56:5556 minutes, 55 secondssurface off when they're the right distance away. And so Newton went a little bit nutty.
+57:0157 minutes, 1 secondAnd he talked about fits of reflection and transmission and so forth. And I would like to now just finish this by
+57:0757 minutes, 7 secondstelling you what is the answer. Now, here's the answer.
+57:1457 minutes, 14 secondsThis is the way we figure this out. It goes as far.
+57:1957 minutes, 19 secondsWhat we're going to calculate is a probability. The probability if a particular question and a probability
+57:2657 minutes, 26 secondsthat this counter goes off. The probability that if I had one photon coming down, it'll come back to this
+57:3357 minutes, 33 secondscounter. The probability which is measured by this curve. And here's the way the rule is for finding the probability. Now listen, hold your seats. Now hold on. Don't be afraid.
+57:4457 minutes, 44 secondsJust Just go on. All right. Never mind it. Don't like it. Huh?
+57:4857 minutes, 48 secondsJust hold on. It works like this. What you do is you take a piece of paper.
+57:5457 minutes, 54 secondsA piece of paper has nothing to do with the original thing. The piece of paper is only to make marks on. It's got nothing to do with the light. All right?
+58:0158 minutes, 1 secondhas your following rules that you make an arrow
+58:0958 minutes, 9 secondsto represent well for each reflection you make an arrow.
+58:1558 minutes, 15 secondsThis arrow for example is for the reflection from the front surface and this arrow might be the reflection from the back surface and I'll tell you in a
+58:2258 minutes, 22 secondsminute how to make those arrows and then what you do is you tie the arrows together this way. You make one and then the other.
+58:3058 minutes, 30 secondsAll right. That means you make this arrow and then you put the tail of the other one on the head of that one.
+58:3558 minutes, 35 secondsThere's a first arrow as a reflecting arrow from the first surface. And this is the second arrow is the reflecting arrow for the second surface.
+58:4558 minutes, 45 secondsAnd you put these two arrows together by this rule.
+58:5158 minutes, 51 secondsAnd we'll look at where how far off you've come to the end. Yes.
+58:5658 minutes, 56 secondsYes. You count the pins in the hole. You count the number of beans you put in the barrel. I mean, you make these pictures
+59:0259 minutes, 2 secondsand then you ask how big is the circle in area. That area represents the probability that you get the thing back.
+59:1259 minutes, 12 secondsIf the circle area is big, then you get a high probability. If the circle area is small, you get a small property. And I just have to say one more thing of how to make the arrows.
+59:2259 minutes, 22 secondsAnswer.
+59:2459 minutes, 24 secondsWell, the size of the arrow depends upon the particular materials. I won't come into that right now. The absolute size 4% is another matter. What you do is you
+59:3359 minutes, 33 secondsmake an arrow and depending upon the time it takes for the light to get from the source
+59:4159 minutes, 41 secondswhere it started to the place where you want to count it, you turn that arrow like a clock depending on how much time.
+59:4959 minutes, 49 secondsSo, if it takes a long time, you see you start out at the source. There's the arrow for the source, but that's not where you go. That's not the hour you want to draw. This is just a thinking
+59:5659 minutes, 56 secondshour. And then you say turn turn overing round round depending on how much time
+1:00:021 hour, 2 secondsit takes at a certain rate. Every second it goes around 75,000 goes around a hell of a lot of times.
+1:00:111 hour, 11 secondsIt goes around one followed by 15 zeros time in one second. But it doesn't take light very long to get to the from the
+1:00:201 hour, 20 secondssource. It turns but still turns around a lot of time. You turn it around. Okay, it's like the roulette wheel. And then
+1:00:271 hour, 27 secondsjust at the moment it hits the counter, it happens to be sitting at some angle.
+1:00:321 hour, 32 secondsAll right, that's for the reflecting from the first surface. Now, what about that was that was supposed to be this one. I I've gotten too many arrows on
+1:00:401 hour, 40 secondshere. What happened is you take the first surface reflection, turn it through this angle depending upon the time, and it ends up here. Say that's
+1:00:491 hour, 49 secondsnot very big angle. You said it was a big angle. It is a big angle. And you know if you keep on turning it can look like a small angle when you're done but you had to turn around
+1:00:571 hour, 57 secondsand around and around and around around right you know what I mean it goes around like a clock hand after 25 years
+1:01:041 hour, 1 minute, 4 secondsis still saying two can start at two and end up at 215.
+1:01:081 hour, 1 minute, 8 secondsYes 25 years it went around. So here it is having been turned around a lot of times. Okay. This is the from the first
+1:01:161 hour, 1 minute, 16 secondssurface I should say. That's the one the arrow for the first surface. Now the arrow for the second surface rule same
+1:01:231 hour, 1 minute, 23 secondsas the arrow for the first surface but in the other direction. It's just an accident. It happens to be the opposite direction. It starts because
+1:01:321 hour, 1 minute, 32 secondswell but because the rule will turn out later when you go from air to glass it's one way from going glass to air. You change it around
+1:01:401 hour, 1 minute, 40 secondsanyway. You start this way for the second surface and you turn this one. No. Which way do I turn? Yes.
+1:01:511 hour, 1 minute, 51 secondsfor the time. And when you get finished with this roulette wheel and the second one, it comes out sewn.
+1:01:571 hour, 1 minute, 57 secondsAnd then you add them together the way I said, you tie one on the other end and make the circle. And that's the laws of electric light. And that'll tell you
+1:02:061 hour, 2 minutes, 6 secondswhether it reflects or it doesn't reflect. And what difference does it make? Why do I get these ups and downs?
+1:02:121 hour, 2 minutes, 12 secondsWell, sure. If you move this, kept that the same and move that. What is that going to do to my exercise over here?
+1:02:191 hour, 2 minutes, 19 secondsanswer the first dial. The time doesn't depend upon where the other surface is.
+1:02:241 hour, 2 minutes, 24 secondsSo it does exactly as I did before. I'm doing the same experiment over with the bottom surface a little further along. Okay, top the same place.
+1:02:321 hour, 2 minutes, 32 secondsNow the second one, however, when I went to turn it, it's a little bit further.
+1:02:361 hour, 2 minutes, 36 secondsIt takes a little longer to get there and therefore it's turned to a new position.
+1:02:411 hour, 2 minutes, 41 secondsSo this second time the picture would look if the thing was thicker the picture might look like this. Instead of being here since it had to turn further
+1:02:491 hour, 2 minutes, 49 secondsperhaps it's turned to here the second time. And then when I add these two things together and tie one on the end
+1:02:561 hour, 2 minutes, 56 secondsof the other and I'll just do that again here. You see that this line is now a long line whereas before it was a relatively short line. This remember was
+1:03:041 hour, 3 minutes, 4 secondsthe answer line. The answer line is a longer line and the area here is much bigger. of this circle and the
+1:03:121 hour, 3 minutes, 12 secondsprobability is larger and this upping and downing zing and the answer is comes out exactly predictable just by this
+1:03:221 hour, 3 minutes, 22 secondslittle game. All right, that's a shock, huh? That's you say, "Yeah, he's going to explain why it's like that." That's
+1:03:291 hour, 3 minutes, 29 secondsexactly what I'm not going to explain. I don't understand it. That's the way it works.
+1:03:371 hour, 3 minutes, 37 secondsThe what I'm going to do in the next lectures is to tell you sort of the generalization of this is this a special
+1:03:461 hour, 3 minutes, 46 secondsexample for reflection. I'm going to tell you how the rules go about turning arrows. It's in fact somewhat simpler than this example. It's not bad at all.
+1:03:541 hour, 3 minutes, 54 secondsIt's easy. It's not hard but much more generally.
+1:04:001 hour, 4 minutesAnd I'm going to what I've done is this is a prototype of the general result.
+1:04:051 hour, 4 minutes, 5 secondsThere is no secret behind it that we can do any better than give you that result. All I'm going to do is generalize it. It's going to sound something like this.
+1:04:131 hour, 4 minutes, 13 secondsThis part you need to understand right away. It's what I'm going to elucidate in the next lecture. The idea goes as follows in general which is a statement
+1:04:211 hour, 4 minutes, 21 secondsand I will come back and do it again. So don't worry.
+1:04:251 hour, 4 minutes, 25 secondsTo calculate the probability of an event which can happen in a number of different ways. The probability of an
+1:04:321 hour, 4 minutes, 32 secondsevent is always what we call the square of an amplitude. More in this model it means the size of a circle corresponding
+1:04:411 hour, 4 minutes, 41 secondsto an arrow. An arrow is called an amplitude. For every event you calculate an amplitude which is an arrow on a plane. The probability is the area corresponding to that arrow. Right?
+1:04:521 hour, 4 minutes, 52 secondsThat's the first thing. Second, how do we calculate the amplitude for an event?
+1:04:591 hour, 4 minutes, 59 secondsIf the event is simply a particle going a photon going from one point to another of a definite color then it's simply an arrow which turns depending on the time
+1:05:091 hour, 5 minutes, 9 secondsthat's the amplitude. Notice by the way if there's no reflections and no trouble it just turns the area stays the same.
+1:05:151 hour, 5 minutes, 15 secondsThe probability of finding a photon is not altered. Okay even though the arrow alters its area is the same. It's when we get in trouble when we have more than
+1:05:241 hour, 5 minutes, 24 secondsone way to occur then the rule goes as follows. If the thing can happen in more than one way, then you find the
+1:05:311 hour, 5 minutes, 31 secondsamplitude. What that was the arrow for each way. See, if it could happen in two ways, you got the arrow one way and the arrow the other way. And if it could
+1:05:391 hour, 5 minutes, 39 secondshappen three ways, if it was a double layer of stuff and so on. Then you put another arrow for the third way. Maybe that one's a short one. And if there's a
+1:05:481 hour, 5 minutes, 48 secondsfourth way, you put another arrow. And when you're all finished, you put them a tail to tail, all the possibilities, and find the total, what we call the total
+1:05:561 hour, 5 minutes, 56 secondsor the net result of making all these little arrow steps.
+1:06:011 hour, 6 minutes, 1 secondAnd that final arrow is a total amplitude. We say for the event to occur, the probability is as always the
+1:06:081 hour, 6 minutes, 8 secondsarea corresponding to that arrow. That's kind of stinky, right? Well, it's fun and it's strange that nature is like that. And I hope you come back to here
+1:06:161 hour, 6 minutes, 16 secondshow it works in general. A little bit better statement of this to review it. And one other thing
+1:06:231 hour, 6 minutes, 23 secondsI am going to try to explain to you how this rule explains several of the ordinary phenomena that you're used to
+1:06:311 hour, 6 minutes, 31 secondsin light such as angle of incidence equals angle of reflection on reflection. That light bends as it goes from air to water and it travels in
+1:06:401 hour, 6 minutes, 40 secondsstraight lines from point to point and so on. It's all hidden in that one rule and how that one rule carries all this
+1:06:481 hour, 6 minutes, 48 secondsinformation part of the next lecture as well as uh I would tell you right away
+1:06:551 hour, 6 minutes, 55 secondsone more thing that this rule that to figure out what happens in nature you have to calculate an amplitude is not
+1:07:021 hour, 7 minutes, 2 secondsjust for light it doesn't make any difference what happened an electron does something a nucleus explodes doesn't make any how do you find it you
+1:07:111 hour, 7 minutes, 11 secondscan only calculate the probability it's going to happen. And how do you do that?
+1:07:141 hour, 7 minutes, 14 secondsYou can guess. You calculate an amplitude. That's a lousy little arrow.
+1:07:191 hour, 7 minutes, 19 secondsAnd the probability is the square of the amplitude. We call it that's really the should call in our case the circle of the amplitude. The circle that
+1:07:281 hour, 7 minutes, 28 secondsrepresents the amplitude measures the probability. And that's true not just of light, but of the whole structure of nature as far as we can tell. And
+1:07:361 hour, 7 minutes, 36 secondsalthough quantum electronamics is only about electrons and light, we discovered that part of the rule at least is valid
+1:07:441 hour, 7 minutes, 44 secondsalso for nuclei, nuclear particles, quarks and everything else. The thing that is special about electronamics is our complete knowledge of exactly what the rules are for drawing the arrows.
+1:07:541 hour, 7 minutes, 54 secondsBut the fact that you have to draw arrows and end up calculating probabilities like that which is such a shocking and horrible form for nature is
+1:08:021 hour, 8 minutes, 2 secondssomething that I will talk about next time in further detail. Thank you very much.
+1:08:111 hour, 8 minutes, 11 secondsThese rotating arrows are all very well but is there another model? The question is is there another model?
+1:08:181 hour, 8 minutes, 18 secondsNaturally we struggle to find it. I'll tell you the answer what's going to be in the fourth lecture. Nobody can find one.
+1:08:261 hour, 8 minutes, 26 secondsIt's worse. There's a We're not so dumb as you know. We're pretty advanced compared to the Mayan. We've analyzed it
+1:08:331 hour, 8 minutes, 33 secondsvery carefully. We almost prove it's impossible to find one over a wide class of ordinary possibilities. If it's going
+1:08:401 hour, 8 minutes, 40 secondsto be any kind of a model, it's going to be at least as weird as this proof.
+1:08:461 hour, 8 minutes, 46 secondsThe reason is that the answers from this are so simple. That is looks a little complicated. You're not used to it. But
+1:08:541 hour, 8 minutes, 54 secondsmathematically those forms and those curves are mathematically so simple and the rules are so simple it's hard to make any mechanism at all that can reproduce such simplicity.
+1:09:031 hour, 9 minutes, 3 secondsThe Mayan thing was really fairly complicated. The numbers were peculiar.
+1:09:071 hour, 9 minutes, 7 secondsThere's no explanation on them. This analogy are numbers are not peculiar.
+1:09:121 hour, 9 minutes, 12 secondsThose they have an explanation for. It's a different situation. One more thing about gravity I would just remind you.
+1:09:181 hour, 9 minutes, 18 secondsWe don't really have a good model because what comes to why is it that there's a force inversely as the square of the distance and what do you mean
+1:09:261 hour, 9 minutes, 26 secondsinversely is the square of the distance that's mathematical and Newton was the one who taught us that we can make progress if you stop
+1:09:331 hour, 9 minutes, 33 secondsarguing about that he said I make no hypothesis I don't explain the gravity law I tell you what the law is that tells you how the things look and you
+1:09:421 hour, 9 minutes, 42 secondscan predict where the stars are going to be and that's the pattern but I don't at the moment know But he left open the question just like
+1:09:501 hour, 9 minutes, 50 secondsyou asked. Maybe tomorrow somebody will figure it out. On your particular question, it's always possible that tomorrow somebody will figure it out.
+1:09:571 hour, 9 minutes, 57 secondsBut it's going to be very difficult and very strange.
+1:10:011 hour, 10 minutes, 1 secondDo you like the idea that our picture of the world has to be based on a calculation which involves probability?
+1:10:101 hour, 10 minutes, 10 secondsNot really. If I get right down to it, I don't say I like it and I don't say I don't like it. I am very highly trained
+1:10:171 hour, 10 minutes, 17 secondsover the years to be a scientist and there's a certain way I have to look at things. When I give a talk, I simplify a little bit. I cheat a little bit to make
+1:10:261 hour, 10 minutes, 26 secondsit sound like I don't like it. What I mean is it's peculiar.
+1:10:301 hour, 10 minutes, 30 secondsBut uh I never think this is what I like, this is what I don't like. I think this is what it is and this is what it isn't. Okay? And whether I like it or I
+1:10:391 hour, 10 minutes, 39 secondsdon't like it is really irrelevant. And believe it or not, I have extracted it out of my mind. I do not even ask myself
+1:10:461 hour, 10 minutes, 46 secondswhether I like it or I don't like it because it's a complete irrelevancy.
+1:10:491 hour, 10 minutes, 49 secondsIt's a kind of a dumb answer, but it's true. And when I'm lecturing, I shouldn't have said I don't like it.
+1:10:541 hour, 10 minutes, 54 secondsWhat I was trying to say is you probably don't like it. There's nothing I think we can do about it. It might have been something else. I I don't know how else
+1:11:021 hour, 11 minutes, 2 secondsto express it. It's not really personally a dislike.
+1:11:081 hour, 11 minutes, 8 secondsHave you left out anything in this lecture which you need to add later?
+1:11:141 hour, 11 minutes, 14 secondsit it's a very difficult and I worked very hard on the lecture to try to use as my examples things that I didn't have to change later the
+1:11:221 hour, 11 minutes, 22 secondsinterpretation slightly you know I couldn't get an elementary enough process that I didn't have later on I
+1:11:301 hour, 11 minutes, 30 secondshave to make a little change you see we talk and we see as though it's reflected at the surface actually what's really
+1:11:391 hour, 11 minutes, 39 secondshappening and a deeper understanding which I should do later on in the lecture but I might forget is that it's reflected. What cause it affects
+1:11:461 hour, 11 minutes, 46 secondselectrons in here which remit light here or here or here or here or here or here.
+1:11:521 hour, 11 minutes, 52 secondsAnd what really is the things that we have to add is not the arrow from here and the arrow from here. But a whole lot of little ones from all the distances
+1:12:001 hour, 12 minutesfrom there to there. But believe it or not, you get the same answer. Okay. So what I really ought to do and I would do if I were doing it correctly would be to
+1:12:081 hour, 12 minutes, 8 secondstalk about the reflection from every interior part and adding arrows. But I would rather add just two arrows the first time than an infinity of them. So
+1:12:161 hour, 12 minutes, 16 secondsI cheat didn't cheat a little bit but I got myself in a slight hole which you picked up. The actual reflection is from the material
+1:12:241 hour, 12 minutes, 24 secondsthe electrons in the material. In the case of Newton's thing it's because the electrons which is reflecting from the glass here and here are interrupted in
+1:12:321 hour, 12 minutes, 32 secondstheir pattern. And when you add the arrows it comes out to be believe it or not the same as if you just take the one one from here and one from there. uh perhaps
+1:12:411 hour, 12 minutes, 41 secondsjust for those who can I don't want to make it too hard but just to give you a clue of the marvelous way it works if
+1:12:491 hour, 12 minutes, 49 secondsyou added tiny arrows to represent reflections from everywhere instead of just talking about it reflected from here to here which is a good equivalent
+1:12:571 hour, 12 minutes, 57 secondsway but if you took a whole lot of little baby arrows each one a very very tiny angle from the other all the same length which is the reflections from all
+1:13:041 hour, 13 minutes, 4 secondsthese places you see you generate a circle and what I was using instead of the circle were the two arrows which were
+1:13:131 hour, 13 minutes, 13 secondsthe beginning arrow and the end arrow of the circle and what you told me is I shouldn't talk about the reflection from the front surface and the reflection the
+1:13:211 hour, 13 minutes, 21 secondsback surface I should talk about the reflection all the stuff in between and it's but it's equivalent the net result of going around here is the same as
+1:13:291 hour, 13 minutes, 29 secondsgoing up here and back on that one it even accounts for the minus sign
+1:13:361 hour, 13 minutes, 36 secondsthat is the distance from here to here is what you get by putting onto this arrow this one backwards.
+1:13:441 hour, 13 minutes, 44 secondsWell, I got them the whole the distance is the same. See, I get I got it upside down in my but uh this line is the same
+1:13:521 hour, 13 minutes, 52 secondsline as you would get by going in a circle. So, it's really reflected from the interior. But in the first lecture, I thought I'd just get two arrows instead of an infinite number.
+1:14:031 hour, 14 minutes, 3 secondsDoes your picture apply to anything besides electrons and light?
+1:14:081 hour, 14 minutes, 8 secondsThis aspect is universal over the whole of the world's phenomena as far as we can tell. Not just a light and electricity.
+1:14:181 hour, 14 minutes, 18 secondsThis phenomenon of drawing arrows and making areas for probabilities. The probability amplitudes we call them. The amplitude and the probabilities of the
+1:14:251 hour, 14 minutes, 25 secondssquares of these amplitudes or the circles of the universal. The next problem is a rule for how to draw arrows under different
+1:14:341 hour, 14 minutes, 34 secondscircumstances. What kind of arrows do you draw under different circum? What are the rules? One of the rules I told you is it turns at a certain rate for light and so on. Those are the rules
+1:14:431 hour, 14 minutes, 43 secondsthat we do not know well in the case of the nuclear phenomena but we know ex
+1:14:501 hour, 14 minutes, 50 secondsvirtually exactly or at least as far as we can tell experimentally. I lost my numbers for electrons and light the rule
+1:14:571 hour, 14 minutes, 57 secondsfor how to make the arrows is completely apparently completely known and nothing is ever complete but within the accuracy
+1:15:051 hour, 15 minutes, 5 secondsand so on it's known. What's not known is how to rules for making the arrows when it's protons that are moving around and so on. Okay.
+1:15:131 hour, 15 minutes, 13 secondsWhen you are looking at something, do you see only light or do you see the object?
+1:15:191 hour, 15 minutes, 19 secondsThe the question of whether or not when you see something you see only the light or you see the thing you're looking at
+1:15:271 hour, 15 minutes, 27 secondsis one of those dopey philosophical things that an ordinary person has no difficulty with.
+1:15:351 hour, 15 minutes, 35 secondsEven the most profound philosopher in sitting eating his dinner has many difficulty making out that what he looks
+1:15:431 hour, 15 minutes, 43 secondsat perhaps might be only the light from the steak but it still implies the existence of the steak which he's able to lift by the fork to his mouth. The
+1:15:511 hour, 15 minutes, 51 secondsphilosophers that were unable to make that analysis and that idea have fallen by the wayside to hunger.
+1:16:011 hour, 16 minutes, 1 second[Applause]
+1:16:071 hour, 16 minutes, 7 secondsCan you tell us whether in the future your theory will be found to be wrong or is it complete?
+1:16:131 hour, 16 minutes, 13 secondsNo, of course not. How can we know what the final thing is? I tell you only what we know today. Can I tell you more? Do you want me to tell you more? Would you
+1:16:221 hour, 16 minutes, 22 secondslike me to tell you what we know tomorrow?
+1:16:241 hour, 16 minutes, 24 secondsI'm sorry. I have the Nobel Prize from the past, not from the future.
+1:16:301 hour, 16 minutes, 30 secondsI do not know the future and I answer in a similar way to your likes in this life. If you ask me what I think will happen in the future, I'll tell you I do
+1:16:381 hour, 16 minutes, 38 secondsnot think. I do my best to understand what I supposed to understand what we know so far. I do not know what you're
+1:16:471 hour, 16 minutes, 47 secondsgoing to discover next. Okay. I can't I know only is you're talking about the edge of the discovery business and it's
+1:16:551 hour, 16 minutes, 55 secondsimpossible to say what's beyond the edge. So I can't answer. All right.
+1:17:001 hour, 17 minutesExcept to say that the history of physics has been that the things that looked like they were nicely set aside were and it turned out to be erroneous
+1:17:071 hour, 17 minutes, 7 secondsupon further discovery. And since society is continues to be vigorous enough in its endeavors to investigate
+1:17:131 hour, 17 minutes, 13 secondsnature, it's almost sure from a social point of view, not from a theory of physics, that new things will be found
+1:17:211 hour, 17 minutes, 21 secondsout which will not fit in. And we have no way to tell whether some young man perhaps from New Zealand or somewhere
+1:17:281 hour, 17 minutes, 28 secondswill find another way or more about this stuff. So it'll have a different picture in the future. Obviously I can't say. I tell you what it looks like today. You call it my theory. It's not my theory.
+1:17:391 hour, 17 minutes, 39 secondsEverybody.

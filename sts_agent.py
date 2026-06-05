@@ -5,7 +5,7 @@ from pathlib import Path
 from src.feynman_chain import build_feynman_chain
 
 
-# ---------- 1. Text-to-speech using macOS 'say' ----------
+
 
 def text_to_speech_mac(text: str) -> None:
     """
@@ -22,13 +22,11 @@ def text_to_speech_mac(text: str) -> None:
     )
 
 
-# ---------- 2. Placeholder speech-to-text (STT) ----------
 
 def speech_to_text(audio_path: str) -> str:
     return "Explain the double-slit experiment in simple words."
 
 
-# ---------- 3. Connect to your Feynman twin ----------
 
 def build_feynman_agent():
     """
@@ -42,16 +40,12 @@ def ask_feynman(feynman, question: str) -> str:
     """
     Ask the Feynman twin a question and return the answer text.
     """
-    # For this standalone STS script we skip long-term memory
     long_term_memory_text = ""
     answer = feynman(
         question,
         long_term_memory_text=long_term_memory_text,
     )
     return answer
-
-
-# ---------- 4. End-to-end STS run ----------
 
 def run_sts_once() -> None:
     """
@@ -61,16 +55,13 @@ def run_sts_once() -> None:
     2. Send text to Feynman twin.
     3. Speak the answer (TTS).
     """
-    # 1) Fake STT result (placeholder)
     question = speech_to_text("dummy_path")
     print("[STS] Recognized question:", question)
 
-    # 2) Build Feynman agent and get answer
     feynman = build_feynman_agent()
     answer = ask_feynman(feynman, question)
     print("[STS] Feynman answer:", answer)
 
-    # 3) Answer text -> speech
     print("[STS] Speaking answer via macOS 'say' ...")
     text_to_speech_mac(answer)
 

@@ -1,15 +1,18 @@
 from pathlib import Path
-import os
+import pickle
 
 from dotenv import load_dotenv
 from langchain_chroma import Chroma
 from langchain_community.document_loaders import TextLoader
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_community.embeddings import HuggingFaceEmbeddings
-load_dotenv()  # this will load GOOGLE_API_KEY from .env
+
+load_dotenv() 
 
 DATA_DIR = Path("data")
 VECTORSTORE_DIR = Path("vectorstore")
+BM25_DOCS_PATH = Path("bm25_docs.pkl")
+
 
 def load_documents():
     docs = []
@@ -17,6 +20,7 @@ def load_documents():
         loader = TextLoader(str(file), encoding="utf-8")
         docs.extend(loader.load())
     return docs
+
 
 def build_vectorstore():
     print("Loading documents...")
@@ -46,9 +50,20 @@ def build_vectorstore():
         persist_directory=str(VECTORSTORE_DIR),
     )
 
-    vectordb.add_documents(split_docs)
+    vectordb.delete_collection()
+    vectordb = Chroma(
+        collection_name="feynman_docs",
+        embedding_function=embeddings,
+        persist_directory=str(VECTORSTORE_DIR),
+    )
 
-print("Vectorstore built and saved to 'vectorstore/'.")
+    vectordb.add_documents(split_docs)
+    print("Vectorstore built and saved to 'vectorstore/'.")
+
+    with open(BM25_DOCS_PATH, "wb") as f:
+        pickle.dump(split_docs, f)
+    print(f"Saved BM25 documents for sparse retrieval to '{BM25_DOCS_PATH}'.")
+    print("Done.")
 
 def main():
     build_vectorstore()
